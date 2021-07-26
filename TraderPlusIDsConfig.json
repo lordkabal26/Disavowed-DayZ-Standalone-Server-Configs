@@ -112,7 +112,7 @@
         {
             "Categories": [
                 "Vehicles",
-                "Vehicle Parts"
+                "Vehicle Parts",
                 "M-ATV",
                 "Humvee",
                 "Trucks",
@@ -122,7 +122,7 @@
                 "M-ATV Sec-One Parts",
                 "Humvee Parts",
                 "MTVR Parts",
-                "KAMAZ Parts",
+                "KAMAZ Parts"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
