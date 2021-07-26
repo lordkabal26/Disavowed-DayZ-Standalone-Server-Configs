@@ -1,0 +1,165 @@
+{
+    "IDs": [
+        {
+            "Categories": [
+                "Vegetables",
+                "Packaged Food",
+                "Meat",
+                "Animal Parts",
+                "Drinks",
+                "Medical Supplies",
+                "Medications"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Categories": [
+                "Tools (small)",
+                "Tools (big)",
+                "Electronics",
+                "Fire & Lights",
+                "Cooking & Hunting Supplies",
+                "Hardware Supplies",
+                "Storage",
+                "Barrels",
+                "Kits and base items",
+                "Misc",
+                "Seasonal",
+                "Seeds & Lime",
+                "Fluffy Pets <3",
+                "Munghards Itempack",
+                "Mass's ManyItemOverhaul"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Categories": [
+                "Melee",
+                "Melee Weapons",
+                "Sidearms",
+                "Rifles",
+                "Shotguns",
+                "Submachine Guns",
+                "Assault Rifles",
+                "Sniper Rifles",
+                "Grenades"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Categories": [
+                "Ammunition",
+                "Magazines",
+                "Handguards",
+                "Buttstocks",
+                "Optics",
+                "Supressors",
+                "Compensators",
+                "Bayonets",
+                "Flashlights"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Categories": [
+                "Glasses",
+                "Armbands",
+                "Gloves",
+                "Hats & Caps",
+                "Helmets",
+                "Masks",
+                "Shirts",
+                "Hoodies & Sweater",
+                "Vests",
+                "Modular Vest System",
+                "Jackets & Coats",
+                "Skirts & Dresses",
+                "Pants",
+                "Shoes & Boots",
+                "Ghillie",
+                "Holster & Pouches",
+                "Belt",
+                "Bags"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Categories": [
+                "Vehicles",
+                "Vehicle Parts",
+                "M-ATV",
+                "Humvee",
+                "DATSUN",
+                "Trucks",
+                "Black Hawks",
+                "UH1Ds",
+                "HeliPolice",
+                "little bird",
+                "chinooks",
+                "M-ATV Parts",
+                "M-ATV OD Parts",
+                "M-ATV Urban Parts",
+                "M-ATV Sec-One Parts",
+                "Humvee Parts",
+                "DATSUN Parts",
+                "MTVR Parts",
+                "KAMAZ Parts",
+                "URAL Parts",
+                "Black Hawk Parts",
+                "Blue Camo Black Hawk Parts",
+                "Camo Black Hawk Parts",
+                "Desert Black Hawk Parts",
+                "Black Hawk Blade Parts",
+                "UH1D Parts",
+                "UH1D Airforce Parts",
+                "UH1D Iron Parts",
+                "UH1D Navy Parts",
+                "UH1D Camo Parts",
+                "UH1D Taxi Parts",
+                "UH1D Blade Parts",
+                "HeliPolice SWAT Parts",
+                "HeliPolice Parts",
+                "HeliPolice Urban Parts",
+                "HeliPolice Green Parts",
+                "HeliPolice flames Parts",
+                "little bird Parts",
+                "little bird Blade Parts",
+                "Chinook Parts",
+                "Chinook Black Parts",
+                "Chinook Bloody Parts",
+                "Chinook Civ Parts",
+                "Chinook USA Parts",
+                "Chinook Blade Parts"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Categories": [
+                "Cannabis",
+                "HellRetex Weapons",
+                "Ammunition",
+                "Magazines",
+                "Attachments",
+                "KoD Weapons",
+                "AIR Weapons",
+                "Apaches",
+                "Apache Parts",
+                "Apache Black Parts",
+                "Apache Green Parts",
+                "Apache Camo Parts",
+                "Apache Desert Parts",
+                "Apache Blade Parts",
+                "Mi35",
+                "Mi35 Parts"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        }
+    ]
+}
