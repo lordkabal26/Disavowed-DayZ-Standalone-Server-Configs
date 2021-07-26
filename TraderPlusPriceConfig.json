@@ -2849,9 +2849,10 @@
                 "KOD_AX50,1,-1,1,14000,3500"
             ]
         },
+		{
             "CategoryName": "KOD SUPPRESSOR",
             "Products": [
-		"Mag_KOD_M200_7rnd,1,-1,0,5,1",
+				"Mag_KOD_M200_7rnd,1,-1,0,5,1",
                 "Mag_KOD_VSS_20rnd,1,-1,0,5,1",
                 "Mag_KOD_VSS_40rnd,1,-1,0,5,1",
                 "Mag_KOD_SCARH_20Rnd,1,-1,0,5,1",
@@ -2890,12 +2891,13 @@
                 "KOD_M82A2_Suppressor_Tan,1,-1,0,5,1",
                 "KOD_M82A2_Suppressor_Grey,1,-1,0,5,1",
                 "KOD_AWM_Suppressor,1,-1,0,5,1",
-                "KOD_Suppressor_308,1,-1,0,5,1",
+                "KOD_Suppressor_308,1,-1,0,5,1"
             ]
         },
-	   "CategoryName": "HellRetex Weapons",
-           "Products": [			
-		"Hell_DesertEagle,0.935139,-1,1,499,200",
+		{
+			"CategoryName": "HellRetex Weapons",
+			"Products": [			
+				"Hell_DesertEagle,0.935139,-1,1,499,200",
                 "Hell_Hecate_II,0.584804,-1,1,499,200",
                 "Hell_Hecate_II_Green,0.584804,-1,1,499,200",
                 "Hell_Hecate_II_Sand,0.584804,-1,1,499,200",
@@ -2938,12 +2940,13 @@
                 "Hell_Mag_SVT40_10Rnd,1,-1,0,1,1",
                 "Hell_M700R_Suppressor,1,-1,0,1,1",
                 "Hell_Mag_Drum_60Rnd,1,-1,60,1,1",
-                "Hell_Mag_Drum_100Rnd,1,-1,-10,1,1",
-		]
+                "Hell_Mag_Drum_100Rnd,1,-1,-10,1,1"
+			]
         },
-	    "CategoryName": "MASS Weapons",
+			{
+			"CategoryName": "MASS Weapons",
             "Products": [ 
-		"air_weapon_vss,0.66874,-1,1,6000,900",
+				"air_weapon_vss,0.66874,-1,1,6000,900",
                 "air_weapon_val,0.66874,-1,1,6000,900",
                 "air_weapon_lr300,0.66874,-1,1,11600,2000",
                 "air_weapon_aws,0.66874,-1,1,11000,2000",
