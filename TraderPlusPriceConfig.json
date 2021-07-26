@@ -103,7 +103,7 @@
                 "TetracyclineAntibiotics,1,11,12,8,5",
                 "PainkillerTablets,0.918781,-1,12,10,6",
                 "Epinephrine,0.918781,-1,0,20,10",
-                "Morphine,0.89826,-1,0,25,15"
+                "Morphine,0.89826,-1,0,25,15",
                 "Ibuprofen,0.946014,-1,12,2400,1000",
                 "Propital,0.946014,1-,0,3200,1500",
                 "AI2_Orange,0.836251,11,0,5000,2000",
@@ -2847,10 +2847,11 @@
                 "KOD_MBR_DesertCamo,1,-1,1,4000,750",
                 "KOD_MBR_WoodlandCamo,1,-1,1,4000,750",
                 "KOD_AX50,1,-1,1,14000,3500"
-			]
+            ]
+        },
             "CategoryName": "KOD SUPPRESSOR",
             "Products": [
-				"Mag_KOD_M200_7rnd,1,-1,0,5,1",
+		"Mag_KOD_M200_7rnd,1,-1,0,5,1",
                 "Mag_KOD_VSS_20rnd,1,-1,0,5,1",
                 "Mag_KOD_VSS_40rnd,1,-1,0,5,1",
                 "Mag_KOD_SCARH_20Rnd,1,-1,0,5,1",
@@ -2890,10 +2891,11 @@
                 "KOD_M82A2_Suppressor_Grey,1,-1,0,5,1",
                 "KOD_AWM_Suppressor,1,-1,0,5,1",
                 "KOD_Suppressor_308,1,-1,0,5,1",
-			]
-			"CategoryName": "HellRetex Weapons",
-            "Products": [			
-				"Hell_DesertEagle,0.935139,-1,1,499,200",
+            ]
+        },
+	   "CategoryName": "HellRetex Weapons",
+           "Products": [			
+		"Hell_DesertEagle,0.935139,-1,1,499,200",
                 "Hell_Hecate_II,0.584804,-1,1,499,200",
                 "Hell_Hecate_II_Green,0.584804,-1,1,499,200",
                 "Hell_Hecate_II_Sand,0.584804,-1,1,499,200",
@@ -2937,10 +2939,11 @@
                 "Hell_M700R_Suppressor,1,-1,0,1,1",
                 "Hell_Mag_Drum_60Rnd,1,-1,60,1,1",
                 "Hell_Mag_Drum_100Rnd,1,-1,-10,1,1",
-			]
-			"CategoryName": "MASS Weapons",
+		]
+        },
+	    "CategoryName": "MASS Weapons",
             "Products": [ 
-				"air_weapon_vss,0.66874,-1,1,6000,900",
+		"air_weapon_vss,0.66874,-1,1,6000,900",
                 "air_weapon_val,0.66874,-1,1,6000,900",
                 "air_weapon_lr300,0.66874,-1,1,11600,2000",
                 "air_weapon_aws,0.66874,-1,1,11000,2000",
