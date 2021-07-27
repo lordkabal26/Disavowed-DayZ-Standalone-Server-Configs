@@ -274,12 +274,36 @@
         {
             "CategoryName": "Melee",
             "Products": [
-                "BrassKnuckles_Shiny,0.584804,-1,1,45,20",
-                "StunBaton,0.983874,-1,1,45,20",
-                "Pipe,0.953766,-1,1,45,20",
-                "CattleProd,0.983874,-1,1,45,20",
-                "BaseballBat,0.959572,-1,1,45,20",
-                "NailedBaseballBat,0.983874,-1,1,45,20"
+                "BrassKnuckles_Shiny,0.584804,-1,1,15,6",
+                "StunBaton,0.983874,-1,1,15,9",
+                "Pipe,0.953766,-1,1,25,10",
+                "CattleProd,0.983874,-1,1,25,15",
+                "BaseballBat,0.959572,-1,1,35,17",
+                "NailedBaseballBat,0.983874,-1,1,45,20",
+		"Hell_JapaneseKatana_Gold,0.983874,-1,1,135,70",
+                "Hell_JapaneseKatana_Black,0.983874,-1,1,135,70",
+                "Hell_RussianShashka,0.983874,-1,1,80,40",
+                "Hell_GolfClub,0.959572,-1,1,35,17",
+                "Hell_ModernAxe,0.967688,-1,1,35,17",
+		"Msp_BeanBasher,1,-1,1,200,100",
+                "Msp_PipeAxe,1,-1,1,200,100",
+                "Msp_PlainBat,1,-1,1,200,100",
+                "Msp_PlainBat_Blue,1,-1,1,200,100",
+                "Msp_PlainBat_Black,1,-1,1,200,100",
+                "Msp_GoodNightBat,1,-1,1,200,100",
+                "Msp_BlunderBat,1,-1,1,200,100",
+                "Msp_BaseballBat,0.946014,-1,1,200,100",
+                "Msp_BaseballBat_SawBarbedWire,0.983874,-1,1,200,100",
+                "Msp_BaseballBat_Chain,0.983874,-1,1,200,100",
+                "Msp_BaseballBat_Nailed,0.983874,-1,1,200,100",
+                "Msp_BaseballBat_BarbedWire,0.983874,-1,1,200,100",
+                "Msp_Sawblade,0.836251,-1,1,200,100",
+                "Msp_VorpalKnife,1,-1,1,200,100",
+		"guitar_mung,0.836251,-1,1,200,100",
+                "bowieknife_mung,0.891402,-1,1,200,100",
+                "Vesuri_mung,0.66874,-1,1,100,50",
+                "katana_Mung,0.66874,-1,1,500,250",
+                "Scythe_Mung,0.935139,-1,1,200,100"
             ]
         },
         {
@@ -292,7 +316,21 @@
                 "Glock19,0.918781,-1,1,410,130",
                 "MKII,0.891402,-1,1,320,160",
                 "Colt1911,0.918781,-1,1,340,180",
-                "Engraved1911,0.66874,-1,1,340,180"
+                "Engraved1911,0.66874,-1,1,340,180",
+		"Hell_USP_9x19,0.836251,-1,1,340,180",
+		"Hell_KAC_PDW,0.836251,-1,1,1100,600",
+		"Nagant1895_mung,0.66874,-1,1,320,160",
+                "air_weapon_p99,0.66874,-1,1,340,180",
+                "air_weapon_p220,0.66874,-1,1,340,180",
+                "air_weapon_colt,0.66874,-1,1,340,180",
+		"air_weapon_makarov,0.66874,-1,1,100,50",
+                "air_weapon_bp1c,0.983874,-1,1,1600,450",
+                "air_weapon_tt,0.66874,-1,1,1300,500",
+                "MASS357M1911,0.891402,-1,1,340,180",
+                "MASSG18,0.2,-1,1,300,130",
+                "MASSG18_Green,0.2,-1,1,300,130",
+                "MASSM19,0.891402,-1,1,340,180",
+                "MASSM19_Wood,0.891402,-1,1,340,180"
             ]
         },
         {
@@ -302,7 +340,35 @@
                 "Mosin9130,0.794597,-1,1,8000,200",
                 "CZ527,0.935139,-1,1,1000,250",
                 "Winchester70,0.764724,-1,1,1000,250",
-                "SKS,0.447214,-1,1,600,300"
+                "SKS,0.447214,-1,1,600,300",
+		"KOD_SKS,1,-1,1,600,300",
+                "KOD_K98,1,-1,1,400,200",
+                "KOD_Ruger,1,-1,1,350,175",
+                "Hell_Gewehr43,0.946014,-1,1,499,200",
+                "Hell_BarMK3,0.967688,-1,1,499,200",
+                "Hell_KAR98K,0.976945,-1,1,400,200",
+                "Hell_M1A_Raw,0.935139,-1,1,499,200",
+                "Hell_M1Garand,0.946014,-1,1,499,200",
+                "Hell_M14_Tactical,0.863888,-1,1,1499,600",
+                "Hell_M14EBR,0.863888,-1,1,1499,600",
+                "Hell_Marlin1895,0.967688,-1,1,400,200",
+                "Hell_MAS36,0.976945,-1,1,350,175",
+                "Hell_MAS49,0.946014,-1,1,350,150",
+                "Hell_Ruger1022,0.953766,-1,1,500,250",
+                "Hell_Ruger1022_Camo,0.953766,-1,1,500,250",
+                "Gewehr43_mung,0.918781,-1,1,499,200",
+                "air_weapon_Vepr,0.66874,-1,1,600,300",
+                "MASSStevens301,0.937651,-1,1,600,5",
+                "MASSStevens301_green,0.937651,-1,1,600,300",
+                "MASSStevens301_tan,0.937651,-1,1,600,300",
+                "MASSStevens301SHORT,0.983874,-1,1,600,300",
+                "MASSStevens301SHORT_green,0.983874,-1,1,600,300",
+                "MASSStevens301SHORT_tan,0.983874,-1,1,600,300",
+                "MASSStevens301SuperShort,0.983874,-1,1,600,300",
+                "MASSStevens301SuperShort_green,0.983874,-1,1,600,300",
+                "MASSStevens301SuperShort_tan,0.983874,-1,1,600,300",
+                "MassScout556,0.935139,-1,1,350,175",
+                "Massmini14,0.891402,-1,1,499,200"
             ]
         },
         {
@@ -310,7 +376,7 @@
             "Products": [
                 "Mp133Shotgun,0.836251,-1,1,1000,250",
                 "Izh43Shotgun,0.891402,-1,1,900,400",
-                "Saiga,0.584804,-1,1,-10,600"
+                "Saiga,0.584804,-1,1,-10,600",
             ]
         },
         {
@@ -523,11 +589,11 @@
                 "KOD_DVL10,1,-1,1,4000,1000",
                 "KOD_DVL10M1,1,-1,1,4000,1000",
                 "KOD_HK417,1,-1,1,4000,1000",
-                "KOD_K98,1,-1,1,4000,1000",
+
                 "KOD_M16A4,1,1,1,4000,1000",
-                "KOD_Ruger,1,-1,1,4000,1000",
+
                 "KOD_DrumShotgun,1,-1,1,4000,1000",
-                "KOD_SKS,1,-1,1,4000,1000",
+
                 "KOD_FAMAS,1,-1,1,4000,1000",
                 "KOD_AKM,1,-1,1,4000,1000",
                 "KOD_MCR_Tan,1,-1,1,4000,1000",
@@ -583,7 +649,7 @@
                 "Hell_AK12,0.836251,-1,1,499,200",
                 "Hell_AK12_Green,0.836251,-1,1,499,200",
                 "Hell_AK12_Sand,0.836251,-1,1,499,200",
-                "Hell_BarMK3,0.967688,-1,1,499,200",
+
                 "Hell_DVL10,0.584804,-1,1,499,200",
                 "Hell_DVL10_Green,0.584804,-1,1,499,200",
                 "Hell_DVL10_Sand,0.584804,-1,1,499,200",
@@ -591,28 +657,20 @@
                 "Hell_FAMASG2_Green,0.836251,-1,1,499,200",
                 "Hell_FAMASG2_Sand,0.836251,-1,1,499,200",
                 "Hell_FRF2,0.584804,-1,1,499,200",
-                "Hell_Gewehr43,0.946014,-1,1,499,200",
+
                 "Hell_HK416D,0.836251,-1,1,499,200",
                 "Hell_HK416D_Green,0.836251,-1,1,499,200",
                 "Hell_HK416D_Sand,0.836251,-1,1,499,200",
-                "Hell_KAC_PDW,0.836251,-1,1,499,200",
-                "Hell_KAR98K,0.976945,-1,1,499,200",
+
                 "Hell_L96A1,0.66874,-1,1,499,200",
-                "Hell_M1A_Raw,0.935139,-1,1,499,200",
-                "Hell_M1Garand,0.946014,-1,1,499,200",
-                "Hell_M14_Tactical,0.863888,-1,1,499,200",
-                "Hell_M14EBR,0.863888,-1,1,499,200",
                 "Hell_Pioneer,0.836251,-1,1,499,200",
                 "Hell_M16M,0.836251,-1,1,499,200",
                 "Hell_M16M_Raw,0.836251,-1,1,499,200",
-                "Hell_Marlin1895,0.967688,-1,1,499,200",
-                "Hell_MAS36,0.976945,-1,1,499,200",
-                "Hell_MAS49,0.946014,-1,1,499,200",
-                "Hell_MAT49,0.918781,-1,1,499,200",
+
+
+		"Hell_MAT49,0.918781,-1,1,499,200",
                 "Hell_MP9,0.918781,-1,1,499,200",
                 "Hell_MPX,0.918781,-1,1,499,200",
-                "Hell_Ruger1022,0.953766,-1,1,499,200",
-                "Hell_Ruger1022_Camo,0.953766,-1,1,499,200",
                 "Hell_SIG553,0.836251,-1,1,499,200",
                 "Hell_SPAS12,0.918781,-1,1,499,200",
                 "Hell_STF12,0.918781,-1,1,499,200",
@@ -621,17 +679,7 @@
                 "Hell_R870T_ABS,0.918781,-1,1,499,200",
                 "Hell_Thompson,0.918781,-1,1,499,200",
                 "Hell_TOZ,0.97309,-1,1,499,200",
-                "Hell_USP_9x19,0.836251,-1,1,499,200"
-            ]
-        },
-        {
-            "CategoryName": "HellRetex Melee Weapons",
-            "Products": [
-                "Hell_JapaneseKatana_Gold,0.983874,-1,1,499,200",
-                "Hell_JapaneseKatana_Black,0.983874,-1,1,499,200",
-                "Hell_RussianShashka,0.983874,-1,1,499,200",
-                "Hell_GolfClub,0.959572,-1,1,499,200",
-                "Hell_ModernAxe,0.967688,-1,1,499,200"
+                
             ]
         },
         {
@@ -715,7 +763,7 @@
                 "air_weapon_lvoa,0.66874,-1,1,2000,900",
                 "air_weapon_izh43,0.66874,-1,1,900,200",
                 "air_weapon_toz34,0.66874,-1,1,2000,500",
-                "air_weapon_tt,0.66874,-1,1,1300,500",
+		
                 "air_weapon_spas,0.66874,-1,1,1700,1100",
                 "air_weapon_mossberg,0.66874,-1,1,2000,1100",
                 "air_weapon_MP153,0.66874,-1,1,2000,1100",
@@ -725,13 +773,10 @@
                 "air_weapon_itaca,0.66874,-1,1,100,1100",
                 "air_weapon_mp5,0.66874,-1,1,2000,700",
                 "air_weapon_hk45,0.66874,-1,1,2000,550",
-                "air_weapon_Vepr,0.66874,-1,1,2000,700",
+
                 "air_weapon_MP40,0.66874,-1,1,2000,300",
-                "air_weapon_makarov,0.66874,-1,1,600,50",
-                "air_weapon_bp1c,0.983874,-1,1,1600,450",
-                "air_weapon_p99,0.66874,-1,1,1100,250",
-                "air_weapon_p220,0.66874,-1,1,100,300",
-                "air_weapon_colt,0.66874,-1,1,600,50",
+                
+
                 "air_weapon_toz34_sawedoff,0.66874,-1,1,1400,830",
                 "air_weapon_izh43_sawedoff,0.66874,-1,1,1400,830"
             ]
@@ -776,13 +821,9 @@
         {
             "CategoryName": "Munghards Weapons",
             "Products": [
-                "guitar_mung,0.836251,-1,1,200,100",
-                "bowieknife_mung,0.891402,-1,1,200,100",
-                "Vesuri_mung,0.66874,-1,1,100,50",
-                "katana_Mung,0.66874,-1,1,500,250",
-                "Scythe_Mung,0.935139,-1,1,200,100",
-                "Nagant1895_mung,0.66874,-1,1,1000,500",
-                "Gewehr43_mung,0.918781,-1,1,1200,600",
+                
+                
+
                 "csmcmillan_mung,0.891402,-1,1,1000,500"
             ]
         },
@@ -801,53 +842,22 @@
             ]
         },
         {
-            "CategoryName": "MSP Weapons",
-            "Products": [
-                "Msp_BeanBasher,1,-1,1,200,100",
-                "Msp_PipeAxe,1,-1,1,200,100",
-                "Msp_PlainBat,1,-1,1,200,100",
-                "Msp_PlainBat_Blue,1,-1,1,200,100",
-                "Msp_PlainBat_Black,1,-1,1,200,100",
-                "Msp_GoodNightBat,1,-1,1,200,100",
-                "Msp_BlunderBat,1,-1,1,200,100",
-                "Msp_BaseballBat,0.946014,-1,1,200,100",
-                "Msp_BaseballBat_SawBarbedWire,0.983874,-1,1,200,100",
-                "Msp_BaseballBat_Chain,0.983874,-1,1,200,100",
-                "Msp_BaseballBat_Nailed,0.983874,-1,1,200,100",
-                "Msp_BaseballBat_BarbedWire,0.983874,-1,1,200,100",
-                "Msp_Sawblade,0.836251,-1,1,200,100",
-                "Msp_VorpalKnife,1,-1,1,200,100"
-            ]
-        },
-        {
             "CategoryName": "MASS Weapons",
             "Products": [
-                "MASS357M1911,0.891402,-1,1,100,5",
-                "MASSG18,0.2,-1,1,100,5",
-                "MASSG18_Green,0.2,-1,1,100,5",
-                "MASSStevens301,0.937651,-1,1,100,5",
-                "MASSStevens301_green,0.937651,-1,1,100,5",
-                "MASSStevens301_tan,0.937651,-1,1,100,5",
-                "MASSStevens301SHORT,0.983874,-1,1,100,5",
-                "MASSStevens301SHORT_green,0.983874,-1,1,100,5",
-                "MASSStevens301SHORT_tan,0.983874,-1,1,100,5",
-                "MASSStevens301SuperShort,0.983874,-1,1,100,5",
-                "MASSStevens301SuperShort_green,0.983874,-1,1,100,5",
-                "MASSStevens301SuperShort_tan,0.983874,-1,1,100,5",
+
+
                 "MASSTMP153,0.66874,-1,1,100,5",
                 "MASSMP153,0.891402,-1,1,100,5",
                 "MASSMP153Short,0.983874,-1,1,100,5",
                 "MASSarmsan,0.979833,80,1,100,5",
-                "MASSM19,0.891402,-1,1,100,5",
-                "MASSM19_Wood,0.891402,-1,1,100,5",
+
                 "MASSPPSH41,0.764724,7,1,100,5",
                 "MASSPPSH41_Black,0.983874,-1,1,100,5",
                 "MASSPPSH41_Green,0.983874,-1,1,100,5",
-                "MASSPPSH41_Camo,0.983874,-1,1,100,5",
-                "MassScout556,0.935139,-1,1,100,5",
+                
                 "MassType81,0.836251,-1,1,100,5",
                 "MassM16,0.66874,-1,1,100,5",
-                "Massmini14,0.891402,-1,1,100,5",
+		"MASSPPSH41_Camo,0.983874,-1,1,100,5",
                 "MassB52,0.891402,-1,1,100,5",
                 "MassPpskn,0.959572,40,1,100,5",
                 "MassAR15,0.2,2,1,100,5"
