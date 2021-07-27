@@ -168,8 +168,8 @@
             "Products": [
                 "Battery9V,1,-1,50,8,3",
                 "PersonalRadio,0.918781,-1,1,10,5",
-		"CarLock,1,-1,1,2000,200",
-		"CodeLock,1,-1,1,1000,100",
+				"CarLock,1,-1,1,2000,200",
+				"CodeLock,1,-1,1,1000,100",
                 "Megaphone,0.836251,-1,1,30,15",
                 "ElectronicRepairKit,0.935139,-1,100,35,17",
                 "CableReel,0.918781,-1,1,40,20",
@@ -177,7 +177,7 @@
                 "BaseRadio,0.66874,-1,1,50,30",
                 "Rangefinder,0.946014,-1,1,60,35",
                 "NVGoggles,0.2,-1,1,400,220",
-		"MassBinocs,0.2,-1,1,500,250"
+				"MassBinocs,0.2,-1,1,500,250"
             ]
         },
         {
@@ -1146,7 +1146,7 @@
                 "UKAssVest_Khaki,0.66874,-1,1,90,30",
                 "UKAssVest_Olive,0.66874,-1,1,90,30",
                 "UKAssVest_Camo,0.447214,-1,1,100,35",
-		"tacvest_mung,0.836251,-1,1,55,18",
+				"tacvest_mung,0.836251,-1,1,55,18",
                 "SmershVest,0.66874,-1,1,150,50",
                 "HighCapacityVest_Black,0.447214,-1,1,200,60",
                 "HighCapacityVest_Olive,0.447214,-1,1,230,75",
@@ -2960,15 +2960,15 @@
                 "air_weapon_rpk,0.66874,-1,1,14000,2000",
                 "air_weapon_m240,0.66874,-1,1,13000,2000",
                 "air_weapon_hk51,0.66874,-1,1,4300,1300",
-		"air_weapon_scar,0.66874,-1,1,4300,1300",
+				"air_weapon_scar,0.66874,-1,1,4300,1300",
                 "air_weapon_9a91,0.66874,-1,1,1200,100",
                 "air_weapon_deagle,0.66874,-1,1,500,100"
             ]
         },
-	{
-		"CategoryName": "AIR Magazines",
-		"Products": [
-		"air_weapon_protecta_mag,0.946014,-1,1,400,200",
+		{
+			"CategoryName": "AIR Magazines",
+			"Products": [
+				"air_weapon_protecta_mag,0.946014,-1,1,400,200",
                 "air_weapon_val_mag,0.946014,-1,1,400,200",
                 "air_weapon_pkm_mag,0.946014,-1,1,4000,200",
                 "air_weapon_aws_mag_75rnd,0.946014,-1,1,400,200",
@@ -3011,12 +3011,12 @@
                 "AmmoBox_408Chey,0.953766,-1,1,1000,5"
             ]
         },
-	{
-	    "CategoryName": "MASS Attachments",
-	    "Products": [
-		 "MassAR15AdjBttstck,0.56895,-1,1,100,5"
-	    ]
-	},
+		{
+			"CategoryName": "MASS Attachments",
+			"Products": [
+				"MassAR15AdjBttstck,0.56895,-1,1,100,5"
+			]
+		},
         {
             "CategoryName": "Black Hawks",
             "Products": [
