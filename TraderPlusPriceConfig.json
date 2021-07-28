@@ -354,9 +354,10 @@
                 "Hell_Marlin1895,0.967688,-1,1,400,200",
                 "Hell_MAS36,0.976945,-1,1,350,175",
                 "Hell_MAS49,0.946014,-1,1,350,150",
+                "Hell_Pioneer,0.836251,-1,1,800,700",
                 "Hell_Ruger1022,0.953766,-1,1,500,250",
                 "Hell_Ruger1022_Camo,0.953766,-1,1,500,250",
-                "Gewehr43_mung,0.918781,-1,1,499,200",
+                "Gewehr43_mung,0.918781,-1,1,500,250",
                 "air_weapon_Vepr,0.66874,-1,1,600,300",
                 "MASSStevens301,0.937651,-1,1,600,5",
                 "MASSStevens301_green,0.937651,-1,1,600,300",
@@ -374,9 +375,32 @@
         {
             "CategoryName": "Shotguns",
             "Products": [
-                "Mp133Shotgun,0.836251,-1,1,1000,250",
+                "Mp133Shotgun,0.836251,-1,1,500,250",
                 "Izh43Shotgun,0.891402,-1,1,900,400",
-                "Saiga,0.584804,-1,1,-10,600",
+                "Saiga,0.584804,-1,1,1500,600",
+                "KOD_DrumShotgun,1,-1,1,1500,600",
+                "KOD_KS23,1,-1,1,900,400",
+		"Hell_SPAS12,0.918781,-1,1,1500,600",
+                "Hell_STF12,0.918781,-1,1,900,400",
+                "Hell_Supernova,0.918781,-1,1,1500,600",
+                "Hell_R870T,0.918781,-1,1,900,400",
+                "Hell_R870T_ABS,0.918781,-1,1,1500,600",
+                "Hell_TOZ,0.97309,-1,1,500,250",
+                "air_weapon_toz34_sawedoff,0.66874,-1,1,500,250",
+                "air_weapon_izh43_sawedoff,0.66874,-1,1,500,2500",		
+                "air_weapon_spas,0.66874,-1,1,1500,600",
+                "air_weapon_mossberg,0.66874,-1,1,900,400",
+                "air_weapon_MP153,0.66874,-1,1,900,400",
+                "air_weapon_MP153_Black,0.66874,-1,1,900,400",
+                "air_weapon_remington,0.66874,-1,1,900,400",
+                "air_weapon_ks23,0.66874,-1,1,1400,650",
+                "air_weapon_itaca,0.66874,-1,1,900,400",
+                "air_weapon_izh43,0.66874,-1,1,900,400",
+                "air_weapon_toz34,0.66874,-1,1,500,250",
+		"MASSTMP153,0.66874,-1,1,900,400",
+                "MASSMP153,0.891402,-1,1,900,400",
+                "MASSMP153Short,0.983874,-1,1,900,400",
+                "MASSarmsan,0.979833,80,1,1000,500"
             ]
         },
         {
@@ -385,17 +409,79 @@
                 "CZ61,0.836251,-1,1,700,300",
                 "UMP45,0.836251,-1,1,800,350",
                 "MP5K,0.836251,-1,1,1000,450",
-                "AKS74U,0.66874,-1,1,1100,600"
+                "AKS74U,0.66874,-1,1,1100,600",
+                "KOD_MP5SD,1,-1,1,1100,600",
+                "KOD_PPSh,1,-1,1,1100,600",
+                "KOD_Scorpion,1,-1,1,1100,600",
+		"Hell_MAT49,0.918781,-1,1,700,300",
+                "Hell_MP9,0.918781,-1,1,800,350",
+                "Hell_MPX,0.918781,-1,1,800,350",
+                "Hell_Thompson,0.918781,-1,1,700,300",
+                "air_weapon_MP40,0.66874,-1,1,700,300",
+                "air_weapon_mp5,0.66874,-1,1,1000,450",
+                "air_weapon_hk45,0.66874,-1,1,1100,600",
+                "MASSPPSH41,0.764724,-1,1,1100,600",
+                "MASSPPSH41_Black,0.983874,-1,1,1100,600",
+                "MASSPPSH41_Green,0.983874,-1,1,1100,600",
+		"MASSPPSH41_Camo,0.983874,-1,1,1100,600"
             ]
         },
         {
             "CategoryName": "Assault Rifles",
             "Products": [
                 "FAL,0.2,-1,1,1100,450",
-                "AKM,0.66874,-1,1,1600,750",
+                "AKM,0.66874,-1,1,1500,750",
                 "AK101,0.2,-1,1,1500,750",
                 "AK74,0.66874,-1,1,1600,750",
-                "M4A1,0.66874,-1,1,1600,750"
+                "M4A1,0.66874,-1,1,1500,750",
+                "KOD_AEK971,1,-1,1,1500,750",
+                "KOD_AK47,1,-1,1,1500,750",
+                "KOD_AK15,1,-1,1,1500,750",
+                "KOD_FAMAS,1,-1,1,1500,750",
+                "KOD_AKM,1,-1,1,1500,750",
+                "KOD_MCR_Tan,1,-1,1,1600,750",
+                "KOD_MCR_Black,1,-1,1,1600,750",
+                "KOD_MCR_BlackTan,1,-1,1,1600,750",
+                "KOD_MCR_TanCamo,1,-1,1,1600,750",
+                "KOD_MCR_UCPCamo,1,-1,1,1600,750",
+                "KOD_MCR_WoodlandCamo,1,-1,1,1600,750",
+                "KOD_SA58,1,-1,1,1000,450",
+		"KOD_M16A4,1,1,1,1400,550",
+                "KOD_HK417,1,-1,1,2000,950",
+                "KOD_ASH12,1,-1,1,1400,550",
+                "Hell_AEK971,0.836251,-1,1,1500,600",
+                "Hell_AK12,0.836251,-1,1,1500,750",
+                "Hell_AK12_Green,0.836251,-1,1,1500,750",
+                "Hell_AK12_Sand,0.836251,-1,1,1500,750",
+                "Hell_FAMASG2,0.836251,-1,1,1500,750",
+                "Hell_FAMASG2_Green,0.836251,-1,1,1500,750",
+                "Hell_FAMASG2_Sand,0.836251,-1,1,1500,750",
+                "Hell_FRF2,0.584804,-1,1,1500,750",
+                "Hell_HK416D,0.836251,-1,1,1600,750",
+                "Hell_HK416D_Green,0.836251,-1,1,1600,750",
+                "Hell_HK416D_Sand,0.836251,-1,1,1600,750",
+                "Hell_L96A1,0.66874,-1,1,1400,550",
+		"Hell_M16A1,0.836251,-1,1,1400,550",
+                "Hell_M16M,0.836251,-1,1,1400,550",
+                "Hell_M16M_Raw,0.836251,-1,1,1400,550",
+                "Hell_SIG553,0.836251,-1,1,1400,550",
+		"air_weapon_ak74,0.66874,-1,1,2500,700",
+                "air_weapon_aksu,0.66874,-1,1,2500,700",
+                "air_weapon_akm,0.66874,-1,1,3000,900",
+                "air_weapon_sg550,0.66874,-1,1,3000,900",
+                "air_weapon_akm_2,0.66874,-1,1,3000,900",
+                "air_weapon_l85a1,0.66874,-1,1,4500,1100",
+                "air_weapon_aug,0.66874,-1,1,4500,1100",
+                "air_weapon_type81,0.66874,-1,1,4500,1100",
+                "air_weapon_fn2000,0.66874,-1,1,4500,1100",
+                "air_weapon_g36,0.66874,-1,1,4500,1100",
+                "air_weapon_groza,0.66874,-1,1,4500,1100",
+                "air_weapon_abakan,0.66874,-1,1,3000,900",
+                "MassType81,0.836251,-1,1,1400,5550",
+                "MassM16,0.66874,-1,1,1400,5550",
+                "MassB52,0.891402,-1,1,3000,900",
+                "MassPpskn,0.959572,-1,1,3000,900",
+                "MassAR15,0.2,-1,1,1400,550"
             ]
         },
         {
@@ -403,40 +489,41 @@
             "Products": [
                 "VSS,0.2,-1,1,1600,960",
                 "B95,0.836251,-1,1,1700,1100",
-                "SVD,0.2,-1,1,1800,1200"
+                "SVD,0.2,-1,1,2000,1200",
+		"csmcmillan_mung,0.2,-1,1,1000,500"
             ]
         },
         {
             "CategoryName": "Grenades",
             "Products": [
-                "RGD5Grenade,0.794597,-1,1,400,100",
-                "M67Grenade,0.794597,-1,1,400,100",
-                "M18SmokeGrenade_Red,0.66874,-1,1,400,100",
-                "M18SmokeGrenade_Green,0.66874,-1,1,400,100",
-                "M18SmokeGrenade_Yellow,0.66874,-1,1,400,100",
-                "M18SmokeGrenade_Purple,0.66874,-1,1,400,100",
-                "M18SmokeGrenade_White,0.66874,-1,1,-400,100",
-                "RDG2SmokeGrenade_Black,0.447214,-1,1,400,100",
-                "RDG2SmokeGrenade_White,0.447214,-1,1,400,100",
-                "FlashGrenade,0.66874,-1,1,400,100"
+                "RGD5Grenade,0.794597,-1,1,300,100",
+                "M67Grenade,0.794597,-1,1,300,100",
+                "M18SmokeGrenade_Red,0.66874,-1,1,300,100",
+                "M18SmokeGrenade_Green,0.66874,-1,1,300,100",
+                "M18SmokeGrenade_Yellow,0.66874,-1,1,300,100",
+                "M18SmokeGrenade_Purple,0.66874,-1,1,300,100",
+                "M18SmokeGrenade_White,0.66874,-1,1,300,100",
+                "RDG2SmokeGrenade_Black,0.447214,-1,1,300,100",
+                "RDG2SmokeGrenade_White,0.447214,-1,1,300,100",
+                "FlashGrenade,0.66874,-1,1,300,100"
             ]
         },
         {
             "CategoryName": "Ammunition",
             "Products": [
-                "Ammo_380,1,-1,1,10,5",
-                "Ammo_9x19,1,-1,1,10,5",
-                "Ammo_22,1,-1,1,10,5",
-                "Ammo_45ACP,1,-1,1,10,5",
-                "Ammo_12gaPellets,1,-1,1,10,5",
+                "Ammo_380,1,-1,1,1,-1",
+                "Ammo_9x19,1,-1,1,1,-1",
+                "Ammo_22,1,-1,1,1,-1",
+                "Ammo_45ACP,1,-1,1,1,-1",
+                "Ammo_12gaPellets,1,-1,1,3,1",
                 "Ammo_12gaSlug,1,-1,1,4,2",
-                "Ammo_9x39,1,11,1,4,2",
-                "Ammo_9x39AP,1,-1,1,10,5",
-                "Ammo_308Win,1,-1,1,10,5",
-                "Ammo_545x39,1,-1,1,10,5",
-                "Ammo_556x45,1,-1,1,10,5",
-                "Ammo_762x39,1,-1,1,10,5",
-                "Ammo_762x54,0.998994,-1,1,10,5",
+                "Ammo_9x39,1,11,1,5,3",
+                "Ammo_9x39AP,1,-1,1,5,3",
+                "Ammo_308Win,1,-1,1,5,3",
+                "Ammo_545x39,1,-1,1,5,3",
+                "Ammo_556x45,1,-1,1,5,3",
+                "Ammo_762x39,1,-1,1,5,3",
+                "Ammo_762x54,0.998994,-1,1,10,6",
                 "Ammo_556x45Tracer,0.998994,-1,1,10,5",
                 "Ammo_545x39Tracer,0.995974,-1,1,10,5",
                 "Ammo_308WinTracer,0.995974,-1,1,10,5",
@@ -445,10 +532,18 @@
                 "Ammo_FlareBlue,0.959572,-1,1,15,7",
                 "Ammo_FlareGreen,0.959572,-1,1,15,7",
                 "Ammo_FlareRed,0.959572,-1,1,15,7",
-                "Ammo_762x54Tracer,0.998994,-1,1,15,10",
-                "AmmoBox_380_35rnd,0.953766,-1,1,28,10",
-                "AmmoBox_9x19_25rnd,0.953766,-1,1,20,10",
-                "AmmoBox_45ACP_25rnd,0.953766,-1,1,20,10",
+                "Ammo_762x54Tracer,0.998994,-1,1,20,12",
+                "KOD_Ammo_23x75,1,-1,10,5,3",
+                "KOD_Ammo_792x57,1,-1,10,5,3",
+                "Ammo_7x64,1,-1,1,1,1",
+                "Ammo_750x54,1,900,1,1,1",
+                "Ammo_762x51,1,800,1,1,1",
+                "Ammo_792x57,1,-1,1,1,1",
+                "Ammo_762x25,1,-1,1,30,3",
+                "Ammo_9x18,1,-1,1,20,2",
+                "AmmoBox_380_35rnd,0.953766,-1,1,28,-1",
+                "AmmoBox_9x19_25rnd,0.953766,-1,1,20,*1",
+                "AmmoBox_45ACP_25rnd,0.953766,-1,1,20,*1",
                 "AmmoBox_22_50Rnd,0.953766,-1,1,60,20",
                 "AmmoBox_00buck_10rnd,0.953766,-1,1,24,10",
                 "AmmoBox_12gaSlug_10Rnd,0.953766,-1,1,32,20",
@@ -463,7 +558,14 @@
                 "AmmoBox_545x39Tracer_20Rnd,0.953766,-1,1,160,80",
                 "AmmoBox_556x45Tracer_20Rnd,0.953766,-1,1,160,80",
                 "AmmoBox_762x39Tracer_20Rnd,0.953766,-1,1,160,80",
-                "AmmoBox_762x54Tracer_20Rnd,0.953766,-1,1,400,200"
+                "AmmoBox_762x54Tracer_20Rnd,0.953766,-1,1,400,200",
+                "AmmoBox_7x64_20Rnd,1,-1,1,200,120",
+                "AmmoBox_750x54_20Rnd,1,-1,1,200,120",
+                "AmmoBox_762x51_20Rnd,1,-1,1,200,120",
+                "AmmoBox_792x57_20Rnd,1,-1,1,200,120",
+                "AmmoBox_762x25_25Rnd,0.983874,-1,1,200,120",
+                "AmmoBox_9x18_20Rnd,0.983874,-1,1,200,120",
+                "MassAmmoBox_556x45_10Rnd,0.953766,-1,1,160,80"
             ]
         },
         {
@@ -496,7 +598,56 @@
                 "Mag_CMAG_40Rnd,0.891402,-1,1,300,150",
                 "Mag_VSS_10Rnd,0.891402,-1,1,220,110",
                 "Mag_SVD_10Rnd,0.891402,-1,1,250,125",
-                "Mag_308WinSnaploader_2Rnd,0.983874,-1,1,250,125"
+                "Mag_308WinSnaploader_2Rnd,0.983874,-1,1,250,125",
+                "Mag_KOD_AK47_20Rnd,1,-1,1,250,125",
+                "Mag_SKS_20rnd,1,-10,1,250,125",
+                "Mag_KOD_DrumShotgun_30rnd,1,-1,1,250,125",
+                "Mag_KOD_Ruger_5Rnd,1,-1,1,250,125",
+                "Mag_CMAG_30Rnd_Black,1,-10,1,250,125",
+                "Mag_KOD_SA58_20Rnd,1,-1,1,250,125",
+                "Mag_KOD_PPSh_71rnd,1,-1,1,250,125",
+                "Mag_KOD_Scorpion_30rnd,1,-1,1,250,125",
+                "Mag_KOD_ASH12_20Rnd,1,-1,1,250,125",
+                "Hell_Mag_Thompson_30Rnd,1,-1,1,300,150",
+                "Hell_Mag_USP_9x19_15Rnd,1,-1,1,40,20",
+                "Hell_Mag_MAS49_10Rnd,1,-1,1,100,50",
+                "Hell_Mag_MP9_30Rnd,1,-1,1,100,50",
+                "Hell_Mag_MPX_30Rnd,1,-1,1,300,150",
+                "Hell_Mag_SIG553_30Rnd,1,-1,1,300,150",
+                "Hell_Mag_KAC_PDW_30Rnd,1,-1,1,40,20",
+                "Hell_Mag_L96A1_10Rnd,1,-1,1,300,150",
+                "Hell_Mag_M1A_Raw_10Rnd,1,-1,1,100,50",
+                "Hell_Mag_M14_Tactical_15Rnd,1,-1,1,100,50",
+                "Hell_Mag_M14EBR_20Rnd,1,-1,1,100,50",
+                "Hell_Mag_M16A1_20Rnd,1,-1,1,300,150",
+                "Hell_Mag_FAMASG2_25Rnd,1,-10,1,300,150",
+                "Hell_Mag_FRF2_10Rnd,1,-1,1,300,150",
+                "Hell_Mag_Gewehr43_10Rnd,1,-1,1,100,50",
+                "Hell_Mag_AK12_30Rnd,1,-1,1,300,150",
+                "Hell_Mag_BarMK3_10Rnd,1,-1,1,100,50",
+                "Mag_gewehr43_10Rnd_mung,0.918781,-1,1,400,200",
+                "Mag_cs5_10Rnd_mung,0.891402,-1,1,200,100",
+                "air_weapon_ak74_mag,0.946014,-1,1,400,200",
+                "air_weapon_aksu_mag,0.946014,-1,1,400,200",
+                "air_weapon_tt_mag,0.946014,-1,1,400,200",
+                "air_weapon_mag_9a91,0.946014,-1,1,400,200",
+                "air_weapon_mag_vepr,0.946014,-1,1,400,200",
+                "air_weapon_mag_mp40_30rnd,0.946014,-1,1,400,200",
+                "air_weapon_groza_mag,0.946014,-1,1,400,200",
+                "air_weapon_mp5_mag,0.946014,-1,1,400,200",
+                "air_weapon_p99_mag,0.946014,-1,1,400,200",
+                "air_weapon_hk45_mag,0.946014,-1,1,400,200",
+                "air_weapon_p220_mag,0.946014,-1,1,400,200",
+                "air_weapon_sg550_mag,0.946014,-1,1,400,200",
+                "air_weapon_g36_mag,0.946014,-1,1,400,200",
+                "MassG18Mag,0.836251,-1,1,400,200",
+                "Massppshdrum,0.66874,-1,1,400,200",
+                "Massppshbox,0.891402,-1,1,400,200",
+                "Mass357M1911Mag,0.918781,-1,1,400,200",
+                "Scout556mag,0.959572,-1,1,400,200",
+                "Mag_CMAG_10Rnd_Black,0.447214,-1,1,400,200",
+                "Mass9x39Palm,0.584804,-1,1,400,200",
+                "Mass762Stanag,0.983874,-1,1,400,200"
             ]
         },
         {
@@ -510,7 +661,8 @@
                 "AK_PlasticHndgrd,0.447214,-1,1,200,100",
                 "M4_PlasticHndgrd,0.66874,-1,1,150,75",
                 "M4_RISHndgrd,0.66874,-1,1,200,100",
-                "M4_MPHndgrd,0.66874,-1,1,200,100"
+                "M4_MPHndgrd,0.66874,-1,1,200,100",
+		"air_weapon_ak74_hngrd,0.983874,-1,1,140,20"
             ]
         },
         {
@@ -527,7 +679,17 @@
                 "AK_FoldingBttstck,0.447214,-1,1,250,125",
                 "M4_OEBttstck,0.66874,-1,1,150,75",
                 "M4_CQBBttstck,0.66874,-1,1,150,75",
-                "M4_MPBttstck,0.66874,-1,1,150,75"
+                "M4_MPBttstck,0.66874,-1,1,150,75",
+                "KOD_AK_Bttstck,1,-1,1,150,75",
+                "KOD_SA58_Bttstck,1,-1,1,250,125",
+                "Hell_AK12_Buttstock,1,-1,1,150,75",
+                "Hell_AK12_Buttstock_Green,1,-1,1,150,75",
+                "Hell_AK12_Buttstock_Sand,1,-1,1,150,75",
+                "Hell_HK416D_Buttstock,1,-1,1,150,75",
+                "Hell_HK416D_Buttstock_Green,1,-1,1,150,75",
+                "Hell_HK416D_Buttstock_Sand,1,-1,1,150,75",
+                "mcmillan_buttstock,0.891402,-1,1,100,50",
+                "zenitco_pt3_buttstock,0.918781,-1,1,200,100"
             ]
         },
         {
@@ -545,7 +707,22 @@
                 "HuntingOptic,0.584804,-1,1,1000,550",
                 "PSO1Optic,0.764724,-1,1,1100,600",
                 "PSO11Optic,0.447214,-1,1,1400,840",
-                "KazuarOptic,0.66874,-1,1,2200,1400"
+                "KazuarOptic,0.66874,-1,1,2200,1400",
+		"Hell_APX_SOM_Optic,1,-1,1,1100,600",
+                "Hell_HAMR_Optic,1,-1,1,1100,600",
+                "Hell_HK416D_Backsight,1,-1,1,150,75",
+                "Hell_HK416D_Backsight_Green,1,-1,1,150,75",
+                "Hell_HK416D_Backsight_Sand,1,-1,1,150,75",
+                "Hell_Holosight_Optic,1,-1,1,900,500",
+                "Hell_MarkFXII_Optic,1,-1,1,900,500",
+                "Hell_ScromeJ8_Optic,1,-1,1,900,500",
+                "Hell_Mk4_RMR_Optic,1,-1,1,900,500",
+                "Hell_MountingRail,1,-1,1,150,75",
+		"MassScoutLRS,0.918781,-1,1,1000,5",
+                "MassHolo,0.66874,-1,1,150,75",
+                "MassHolo2,0.66874,-1,1,150,75",
+                "MassPKA,0.66874,-1,1,900,500",
+                "MassScope,0.66874,-1,1,900,500",
             ]
         },
         {
@@ -553,14 +730,23 @@
             "Products": [
                 "PistolSuppressor,0.72478,-1,1,150,75",
                 "AK_Suppressor,0.447214,-1,1,250,125",
-                "M4_Suppressor,0.66874,-1,1,250,125"
+                "M4_Suppressor,0.66874,-1,1,250,125",
+                "Hell_Universal_Suppressor,1,-1,1,250,125",
+                "Hell_MP9_Suppressor,1,-1,1,150,75",
+                "MassScoutSuppressor,0.836251,-1,1,1000,500",
+                "shotgun_Suppressor,0.918781,-1,1,1000,500",
+                "MassSuppressor308,0.447214,-1,1,1000,500",
             ]
         },
         {
             "CategoryName": "Compensators",
             "Products": [
                 "Mosin_Compensator,0.794597,-1,1,150,75",
-                "MP5_Compensator,0.584804,-1,1,200,100"
+                "MP5_Compensator,0.584804,-1,1,200,100",
+                "MassMuzzle762,0.66874,-1,1,200,100",
+                "MassMuzzle556,0.66874,-1,1,200,100",
+                "MassMuzzle338,0.2,-1,1,200,100",
+                "MassMuzzlePistol,0.66874,-1,1,200,100"
             ]
         },
         {
@@ -569,334 +755,16 @@
                 "Mosin_Bayonet,0.794597,-1,1,100,60",
                 "M9A1_Bayonet,0.66874,-1,1,150,75",
                 "AK_Bayonet,0.447214,-1,1,150,75",
-                "SKS_Bayonet,0.66874,-1,1,100,60"
+                "SKS_Bayonet,0.66874,-1,1,100,60",
+                "Hell_MAS36_Bayonet,1,-1,1,100,60",
+                "Hell_MAS49_Bayonet,1,-1,1,100,60"
             ]
         },
         {
             "CategoryName": "Flashlights",
             "Products": [
-                "Universallight,0.918781,-1,1,120,60"
-            ]
-        },
-        {
-            "CategoryName": "KOD Weapons",
-            "Products": [
-                "KOD_AEK971,1,-1,1,4000,1000",
-                "KOD_MP5SD,1,-1,1,4000,1000",
-                "KOD_RPK16,1,-1,1,4000,1000",
-                "KOD_AK47,1,-1,1,4000,1000",
-                "KOD_AK15,1,-1,1,4000,1000",
-                "KOD_DVL10,1,-1,1,4000,1000",
-                "KOD_DVL10M1,1,-1,1,4000,1000",
-                "KOD_HK417,1,-1,1,4000,1000",
-
-                "KOD_M16A4,1,1,1,4000,1000",
-
-                "KOD_DrumShotgun,1,-1,1,4000,1000",
-
-                "KOD_FAMAS,1,-1,1,4000,1000",
-                "KOD_AKM,1,-1,1,4000,1000",
-                "KOD_MCR_Tan,1,-1,1,4000,1000",
-                "KOD_MCR_Black,1,-1,1,4000,1000",
-                "KOD_MCR_BlackTan,1,-1,1,4000,1000",
-                "KOD_MCR_TanCamo,1,-1,1,4000,1000",
-                "KOD_MCR_UCPCamo,1,-1,1,4000,1000",
-                "KOD_MCR_WoodlandCamo,1,-1,1,4000,1000",
-                "KOD_SA58,1,-1,1,4000,1000",
-                "KOD_KS23,1,-1,1,4000,1000",
-                "KOD_PPSh,1,-1,1,-4000,1000",
-                "KOD_Scorpion,1,-1,1,4000,1000",
-                "KOD_Raptr,1,-1,1,4000,1000"
-            ]
-        },
-        {
-            "CategoryName": "KOD BUTT STOCK",
-            "Products": [
-                "KOD_AR15Skeleton_Buttstock,1,-1,1,5,1",
-                "KOD_AK_Bttstck,1,-1,1,5,1",
-                "KOD_SA58_Bttstck,1,-1,1,5,1"
-            ]
-        },
-        {
-            "CategoryName": "KOD MAGAZINES",
-            "Products": [
-                "Mag_CMAG_30Rnd_Black,1,-10,1,5,1",
-                "Mag_KOD_SA58_20Rnd,1,-1,1,5,1",
-                "Mag_KOD_PPSh_71rnd,1,-1,1,5,1",
-                "Mag_KOD_Scorpion_30rnd,1,-1,1,5,1",
-                "Mag_KOD_Raptr_30rnd,1,-1,1,5,1",
-                "Mag_SKS_20rnd,1,-10,1,5,1",
-                "Mag_KOD_DrumShotgun_30rnd,1,-1,1,5,1",
-                "Mag_KOD_Ruger_5Rnd,1,-1,1,5,1",
-                "Mag_KOD_DVL10M1_5Rnd,1,-1,1,5,1",
-                "Mag_KOD_DVL10_5Rnd,1,-1,1,5,1",
-                "Mag_KOD_ASH12_20Rnd,1,-1,1,5,1",
-                "Mag_KOD_AK47_20Rnd,1,-1,1,5,1",
-                "Mag_KOD_RPK16_96Rnd,1,-1,1,5,1"
-            ]
-        },
-        {
-            "CategoryName": "KOD AMMO",
-            "Products": [
-                "KOD_Ammo_23x75,1,-1,10,5,1",
-                "KOD_Ammo_792x57,1,-1,10,5,1"
-            ]
-        },
-        {
-            "CategoryName": "HellRetex Weapons",
-            "Products": [
-                "Hell_AEK971,0.836251,-1,1,499,200",
-                "Hell_AK12,0.836251,-1,1,499,200",
-                "Hell_AK12_Green,0.836251,-1,1,499,200",
-                "Hell_AK12_Sand,0.836251,-1,1,499,200",
-
-                "Hell_DVL10,0.584804,-1,1,499,200",
-                "Hell_DVL10_Green,0.584804,-1,1,499,200",
-                "Hell_DVL10_Sand,0.584804,-1,1,499,200",
-                "Hell_FAMASG2,0.836251,-1,1,499,200",
-                "Hell_FAMASG2_Green,0.836251,-1,1,499,200",
-                "Hell_FAMASG2_Sand,0.836251,-1,1,499,200",
-                "Hell_FRF2,0.584804,-1,1,499,200",
-
-                "Hell_HK416D,0.836251,-1,1,499,200",
-                "Hell_HK416D_Green,0.836251,-1,1,499,200",
-                "Hell_HK416D_Sand,0.836251,-1,1,499,200",
-
-                "Hell_L96A1,0.66874,-1,1,499,200",
-                "Hell_Pioneer,0.836251,-1,1,499,200",
-                "Hell_M16M,0.836251,-1,1,499,200",
-                "Hell_M16M_Raw,0.836251,-1,1,499,200",
-
-
-		"Hell_MAT49,0.918781,-1,1,499,200",
-                "Hell_MP9,0.918781,-1,1,499,200",
-                "Hell_MPX,0.918781,-1,1,499,200",
-                "Hell_SIG553,0.836251,-1,1,499,200",
-                "Hell_SPAS12,0.918781,-1,1,499,200",
-                "Hell_STF12,0.918781,-1,1,499,200",
-                "Hell_Supernova,0.918781,-1,1,499,200",
-                "Hell_R870T,0.918781,-1,1,499,200",
-                "Hell_R870T_ABS,0.918781,-1,1,499,200",
-                "Hell_Thompson,0.918781,-1,1,499,200",
-                "Hell_TOZ,0.97309,-1,1,499,200",
-                
-            ]
-        },
-        {
-            "CategoryName": "HellRetex Ammunition",
-            "Products": [
-                "Ammo_7x64,1,-1,1,1,1",
-                "AmmoBox_7x64_20Rnd,1,-1,1,1,1",
-                "Ammo_750x54,1,900,1,1,1",
-                "AmmoBox_750x54_20Rnd,1,-1,1,1,1",
-                "Ammo_762x51,1,800,1,1,1",
-                "AmmoBox_762x51_20Rnd,1,-1,1,1,1",
-                "Ammo_792x57,1,-1,1,1,1",
-                "AmmoBox_792x57_20Rnd,1,-1,1,1,1"
-            ]
-        },
-        {
-            "CategoryName": "HellRetex Magazines",
-            "Products": [
-                "Hell_Mag_Thompson_30Rnd,1,-1,1,1,1",
-                "Hell_Mag_USP_9x19_15Rnd,1,-1,1,1,1",
-                "Hell_Mag_MAS49_10Rnd,1,-1,1,1,1",
-                "Hell_Mag_MP9_30Rnd,1,-1,1,1,1",
-                "Hell_Mag_MPX_30Rnd,1,-1,1,1,1",
-                "Hell_Mag_MRAD_10Rnd,1,-1,1,1,1",
-                "Hell_Mag_SIG553_30Rnd,1,-1,1,1,1",
-                "Hell_Mag_KAC_PDW_30Rnd,1,-1,1,1,1",
-                "Hell_Mag_L96A1_10Rnd,1,-1,1,1,1",
-                "Hell_Mag_M1A_Raw_10Rnd,1,-1,1,1,1",
-                "Hell_Mag_M14_Tactical_15Rnd,1,-1,1,1,1",
-                "Hell_Mag_M14EBR_20Rnd,1,-1,1,1,1",
-                "Hell_Mag_M16A1_20Rnd,1,-1,1,1,1",
-                "Hell_Mag_DVL10_10Rnd,1,-1,1,1,1",
-                "Hell_Mag_FAMASG2_25Rnd,1,-10,1,1,1",
-                "Hell_Mag_FRF2_10Rnd,1,-1,1,1,1",
-                "Hell_Mag_Gewehr43_10Rnd,1,-1,1,1,1",
-                "Hell_Mag_AK12_30Rnd,1,-1,1,1,1",
-                "Hell_Mag_BarMK3_10Rnd,1,-1,1,1,1"
-            ]
-        },
-        {
-            "CategoryName": "HellRetex Attachments",
-            "Products": [
-                "Hell_AK12_Buttstock,1,-1,1,1,1",
-                "Hell_AK12_Buttstock_Green,1,-1,1,1,1",
-                "Hell_AK12_Buttstock_Sand,1,-1,1,1,1",
-                "Hell_APX_SOM_Optic,1,-1,1,1,1",
-                "Hell_HAMR_Optic,1,-1,1,1,1",
-                "Hell_HK416D_Backsight,1,-1,1,1,1",
-                "Hell_HK416D_Backsight_Green,1,-1,1,1,1",
-                "Hell_HK416D_Backsight_Sand,1,-1,1,1,1",
-                "Hell_HK416D_Buttstock,1,-1,1,1,1",
-                "Hell_HK416D_Buttstock_Green,1,-1,1,1,1",
-                "Hell_HK416D_Buttstock_Sand,1,-1,1,1,1",
-                "Hell_Holosight_Optic,1,-1,1,1,1",
-                "Hell_MarkFXII_Optic,1,-1,1,1,1",
-                "Hell_MAS36_Bayonet,1,-1,1,1,1",
-                "Hell_MAS49_Bayonet,1,-1,1,1,1",
-                "Hell_Mk4_RMR_Optic,1,-1,1,1,1",
-                "Hell_MountingRail,1,-1,1,1,1",
-                "Hell_MP9_Suppressor,1,-1,1,1,1",
-                "Hell_ScromeJ8_Optic,1,-1,1,1,1",
-                "Hell_Surefire_Flashlight,1,-1,1,1,1",
-                "Hell_Universal_Suppressor,1,-1,1,1,1"
-            ]
-        },
-        {
-            "CategoryName": "AIR Weapons",
-            "Products": [
-                "air_weapon_l85a1,0.66874,-1,1,4500,1100",
-                "air_weapon_aug,0.66874,-1,1,4500,1100",
-                "air_weapon_type81,0.66874,-1,1,4500,1100",
-                "air_weapon_fn2000,0.66874,-1,1,4500,1100",
-                "air_weapon_g36,0.66874,-1,1,4500,1100",
-                "air_weapon_groza,0.66874,-1,1,4500,1100",
-                "air_weapon_ak74,0.66874,-1,1,2000,700",
-                "air_weapon_aksu,0.66874,-1,1,2000,700",
-                "air_weapon_akm,0.66874,-1,1,2000,900",
-                "air_weapon_sg550,0.66874,-1,1,2000,900",
-                "air_weapon_akm_2,0.66874,-1,1,2000,900",
-                "air_weapon_abakan,0.66874,-1,1,2000,900",
-                "air_weapon_lvoa,0.66874,-1,1,2000,900",
-                "air_weapon_izh43,0.66874,-1,1,900,200",
-                "air_weapon_toz34,0.66874,-1,1,2000,500",
-		
-                "air_weapon_spas,0.66874,-1,1,1700,1100",
-                "air_weapon_mossberg,0.66874,-1,1,2000,1100",
-                "air_weapon_MP153,0.66874,-1,1,2000,1100",
-                "air_weapon_MP153_Black,0.66874,-1,1,2000,1100",
-                "air_weapon_remington,0.66874,-1,1,2000,1100",
-                "air_weapon_ks23,0.66874,-1,1,1400,650",
-                "air_weapon_itaca,0.66874,-1,1,100,1100",
-                "air_weapon_mp5,0.66874,-1,1,2000,700",
-                "air_weapon_hk45,0.66874,-1,1,2000,550",
-
-                "air_weapon_MP40,0.66874,-1,1,2000,300",
-                
-
-                "air_weapon_toz34_sawedoff,0.66874,-1,1,1400,830",
-                "air_weapon_izh43_sawedoff,0.66874,-1,1,1400,830"
-            ]
-        },
-        {
-            "CategoryName": "AIR Ammunition",
-            "Products": [
-                "Ammo_762x25,1,-1,1,30,3",
-                "Ammo_9x18,1,-1,1,20,2",
-				"Ammo_57x28,1,-1,1,20,2",
-				"ammo_57x28_AP,1,-1,1,20,2",
-                "AmmoBox_762x25_25Rnd,0.983874,-1,1,750,75",
-                "AmmoBox_9x18_20Rnd,0.983874,-1,1,400,40",
-				"AmmoBox_57x28_60rnd,1,-1,1,1200,120",
-				"AmmoBox_57x28_AP_60rnd,1,-1,1,1200,120"
-            ]
-        },
-        {
-            "CategoryName": "AIR Attachments",
-            "Products": [
-                "air_weapon_ak74_hngrd,0.983874,-1,1,140,20"
-            ]
-        },
-        {
-            "CategoryName": "AIR Magazines",
-            "Products": [
-                "air_weapon_ak74_mag,0.946014,-1,1,400,200",
-                "air_weapon_aksu_mag,0.946014,-1,1,400,200",
-                "air_weapon_tt_mag,0.946014,-1,1,400,200",
-                "air_weapon_mag_9a91,0.946014,-1,1,400,200",
-                "air_weapon_mag_vepr,0.946014,-1,1,400,200",
-                "air_weapon_mag_mp40_30rnd,0.946014,-1,1,400,200",
-                "air_weapon_groza_mag,0.946014,-1,1,400,200",
-                "air_weapon_mp5_mag,0.946014,-1,1,400,200",
-                "air_weapon_p99_mag,0.946014,-1,1,400,200",
-                "air_weapon_hk45_mag,0.946014,-1,1,400,200",
-                "air_weapon_p220_mag,0.946014,-1,1,400,200",
-                "air_weapon_sg550_mag,0.946014,-1,1,400,200",
-                "air_weapon_g36_mag,0.946014,-1,1,400,200"
-            ]
-        },
-        {
-            "CategoryName": "Munghards Weapons",
-            "Products": [
-                
-                
-
-                "csmcmillan_mung,0.891402,-1,1,1000,500"
-            ]
-        },
-        {
-            "CategoryName": "Munghards Magazines",
-            "Products": [
-                "Mag_gewehr43_10Rnd_mung,0.918781,-1,1,200,10",
-                "Mag_cs5_10Rnd_mung,0.891402,-1,1,100,10"
-            ]
-        },
-        {
-            "CategoryName": "Munghards Attachments",
-            "Products": [
-                "mcmillan_buttstock,0.891402,-1,1,100,50",
-                "zenitco_pt3_buttstock,0.918781,-1,1,200,100"
-            ]
-        },
-        {
-            "CategoryName": "MASS Weapons",
-            "Products": [
-
-
-                "MASSTMP153,0.66874,-1,1,100,5",
-                "MASSMP153,0.891402,-1,1,100,5",
-                "MASSMP153Short,0.983874,-1,1,100,5",
-                "MASSarmsan,0.979833,80,1,100,5",
-
-                "MASSPPSH41,0.764724,7,1,100,5",
-                "MASSPPSH41_Black,0.983874,-1,1,100,5",
-                "MASSPPSH41_Green,0.983874,-1,1,100,5",
-                
-                "MassType81,0.836251,-1,1,100,5",
-                "MassM16,0.66874,-1,1,100,5",
-		"MASSPPSH41_Camo,0.983874,-1,1,100,5",
-                "MassB52,0.891402,-1,1,100,5",
-                "MassPpskn,0.959572,40,1,100,5",
-                "MassAR15,0.2,2,1,100,5"
-            ]
-        },
-        {
-            "CategoryName": "MASS Magazines",
-            "Products": [
-                "MassG18Mag,0.836251,-1,1,100,5",
-                "Massppshdrum,0.66874,-1,1,100,5",
-                "Massppshbox,0.891402,-1,1,100,5",
-                "Mass357M1911Mag,0.918781,-1,1,1000,5",
-                "Scout556mag,0.959572,-1,1,1000,5",
-                "Mag_CMAG_10Rnd_Black,0.447214,-1,1,1000,5",
-                "Mass9x39Palm,0.584804,-1,1,100,5",
-                "Mass762Stanag,0.983874,-1,1,100,5"
-            ]
-        },
-        {
-            "CategoryName": "MASS Ammunition",
-            "Products": [
-                "MassAmmoBox_556x45_10Rnd,0.953766,-1,1,1000,5"
-            ]
-        },
-        {
-            "CategoryName": "MASS Attachments",
-            "Products": [
-                "MassScoutLRS,0.918781,-1,1,1000,5",
-                "MassHolo,0.66874,-1,1,1000,5",
-                "MassHolo2,0.66874,-1,1,1000,5",
-                "MassPKA,0.66874,-1,1,1000,5",
-                "MassScope,0.66874,-1,1,1000,5",
-                "MassScoutSuppressor,0.836251,-1,1,1000,5",
-                "shotgun_Suppressor,0.918781,-1,1,1000,5",
-                "MassSuppressor308,0.447214,-1,1,1000,5",
-                "MassMuzzle762,0.66874,-1,1,1000,5",
-                "MassMuzzle556,0.66874,-1,1,1000,5",
-                "MassMuzzle338,0.2,-1,1,1000,5",
-                "MassMuzzlePistol,0.66874,-1,1,1000,5"
+                "Universallight,0.918781,-1,1,120,60",
+                "Hell_Surefire_Flashlight,1,-1,1,120,60",
             ]
         },
         {
@@ -1156,7 +1024,7 @@
                 "UKAssVest_Khaki,0.66874,-1,1,90,30",
                 "UKAssVest_Olive,0.66874,-1,1,90,30",
                 "UKAssVest_Camo,0.447214,-1,1,100,35",
-				"tacvest_mung,0.836251,-1,1,55,18",
+		"tacvest_mung,0.836251,-1,1,55,18",
                 "SmershVest,0.66874,-1,1,150,50",
                 "HighCapacityVest_Black,0.447214,-1,1,200,60",
                 "HighCapacityVest_Olive,0.447214,-1,1,230,75",
@@ -1779,10 +1647,20 @@
             ]
         },
         {
+            "CategoryName": "Drugs",
+            "Products": [
+                "DP_CocaBag,0.918781,-1,1,1900,1280",
+                "DP_CocaBrick,0.959572,-1,1,50000,44800",
+                "PsilocybeMushroom,0.836251,-1,1,200,175",
+                "DisinfectantAlcohol,0.836251,-1,1,200,175",
+                "MassMeth,0.836251,-1,1,12000,6000",
+            ]
+        },
+        {
             "CategoryName": "Cannabis",
             "Products": [
                 "CP_Relief_Balm,0.918781,-1,14,200,175",
-                "CP_RollingPapers,0.959572,40,20,200,175",
+                "CP_RollingPapers,0.959572,-1,20,200,175",
                 "CigarettePack_Chernamorka,0.836251,-1,1,900,600",
                 "CigarettePack_Merkur,0.836251,-1,1,900,600",
                 "CigarettePack_Partyzanka,0.836251,-1,1,900,600",
@@ -1810,7 +1688,6 @@
                 "CP_CigarettePack_CannabisBlackFrost,0.2,-1,5,4725,3150",
                 "CP_CannabisBagBlackFrost,0.983874,-1,1,1875,1250",
                 "CP_CannabisBrickBlackFrost,0.983874,-1,1,30000,20000"
-
             ]
         },
         {
@@ -2739,8 +2616,6 @@
                 "MassNBC_Bag,0.863888,-1,1,1000,5",
                 "MassAR500,0.836251,-1,1,1000,5",
                 "MassAR500pair,0.983874,-1,1,1000,5",
-                "AmmoBox_12gaBB,0.983874,-1,1,1000,5",
-                "Ammo_12GaBB,1,-1,80,1000,5",
                 "MassRuckBagDesert,1,-1,1,1000,5",
                 "MassRuckBagBlack,1,-1,1,1000,5",
                 "MassRuckBagGorka,1,-1,1,1000,5",
@@ -2839,192 +2714,231 @@
             ]
         },
         {
-            "CategoryName": "KOD Weapons",
+            "CategoryName": "Special Siderms",
             "Products": [
-                "KOD_AKALPHA,1,-1,1,4000,750",
-                "KOD_Beowulf,1,-1,1,4000,750",
-                "KOD_ASH12,1,-1,1,4000,750",
-                "KOD_AWM,1,-1,1,4000,750",
-                "KOD_M110_Tan,1,-1,1,4000,750",
-                "KOD_M110_Black,1,-1,1,4000,750",
-                "KOD_M82A2_Grey,1,1,1,14000,3500",
-                "KOD_M82A2_Black,1,1,1,14000,3500",
-                "KOD_M82A2_Tan,1,1,1,14000,3500",
-                "KOD_PKM,1,-1,1,4000,750",
-                "KOD_R700,1,-1,1,4000,750",
-                "KOD_RSASS_Tan,1,3,1,4000,750",
-                "KOD_SCARH,1,-1,1,4000,750",
-                "KOD_VR80,1,-10,1,4000,750",
-                "KOD_AR15Skeleton,1,-1,1,4000,750",
-                "KOD_M200_Grey,1,-1,1,4000,750",
-                "KOD_M200_Black,1,-1,1,4000,750",
-                "KOD_Revolver50Cal,1,-1,1,4000,750",
-                "KOD_MBR_Black,1,-1,1,4000,750",
-                "KOD_MBR_Tan,1,-1,1,4000,750",
-                "KOD_MBR_UCPCamo,1,-1,1,4000,750",
-                "KOD_MBR_DesertCamo,1,-1,1,4000,750",
-                "KOD_MBR_WoodlandCamo,1,-1,1,4000,750",
-                "KOD_AX50,1,-1,1,14000,3500"
+		"KOD_Revolver50Cal,1,-1,1,2500,1250",
+		"Hell_DesertEagle,0.935139,-1,1,3000,1500",
+                "air_weapon_deagle,0.66874,-1,1,3000,1500"
             ]
         },
-		{
-            "CategoryName": "KOD Ammunition",
+  	{
+            "CategoryName": "Special Rifles",
             "Products": [
-				"Mag_KOD_M200_7rnd,1,-1,1,5,1",
-                "Mag_KOD_VSS_20rnd,1,-1,1,5,1",
-                "Mag_KOD_VSS_40rnd,1,-1,1,5,1",
-                "Mag_KOD_SCARH_20Rnd,1,-1,1,5,1",
-                "Mag_KOD_SCARH_30Rnd,1,-1,1,5,1",
-                "Mag_KOD_RSASS_20Rnd,1,-1,1,5,1",
-                "Mag_KOD_R700_7Rnd,1,-1,1,5,1",
-                "Mag_KOD_PKM_100Rnd,1,-1,1,5,1",
-                "Mag_KOD_M82A2_10Rnd,1,1,1,5,1",
-                "Mag_KOD_M110_10Rnd,1,-1,1,5,1",
-                "Mag_KOD_M110_20Rnd,1,-1,1,5,1",
-                "Mag_KOD_HK417_20Rnd,1,-1,1,5,1",
-                "Mag_KOD_VR80_10Rnd,1,-1,1,5,1",
-                "Mag_KOD_VR80_30Rnd,1,-1,1,5,1",
-                "Mag_KOD_AX50_5Rnd,1,-1,1,5,1",
-                "Mag_KOD_AWM_5Rnd,1,-1,1,5,1",
-                "Mag_KOD_Beowulf_10Rnd,1,-1,1,5,1",
-                "Mag_KOD_AKALPHA_30Rnd,1,-1,1,5,1",
-                "Mag_KOD_Drum308_50Rnd,1,-1,1,5,1",
-                "KOD_Ammo_50BMG,1,-1,10,5,1",
-                "KOD_Ammo_408,1,-1,10,5,1",
-                "Ammo_50CalBW,1,-1,10,5,1",
-                "KOD_Ammo_338,1,-1,10,5,1",
-                "KOD_Ammo_40lw,1,-1,10,5,1"
+                "KOD_SCARH,1,-1,1,8000,4000",
+                "KOD_AR15Skeleton,1,-1,1,10000,5000",
+                "Hell_MRAD,0.66874,-1,1,11600,5800",
+                "Hell_SVT40,0.946014,-1,1,6000,3000",
+                "MassSVT40,0.836251,-1,1,6000,3000",
+                "MassSVT40_Black,0.983874,-1,1,6000,3000",
+                "MassSVT40_Green,0.983874,-1,1,6000,3000",
+                "MassSVT40_Camo,0.983874,-1,1,6000,3000",
+		"air_weapon_vss,0.66874,-1,1,6000,3000",
+                "air_weapon_val,0.66874,-1,1,6000,3000",
+                "air_weapon_lr300,0.66874,-1,1,11600,5800",
+                "air_weapon_hk51,0.66874,-1,1,6000,3000",
+                "air_weapon_lvoa,0.66874,-1,1,11600,5800",
+                "MassKivaari,1,-1,1,11600,5800",
+                "MassAR15DMR,0.66874,-1,1,10000,5000",
+                "MassAR15DMR_Desert,0.66874,-1,1,10000,5000",
             ]
         },
-        {
-            "CategoryName": "KOD Attachments",
+	{
+            "CategoryName": "Special Shotguns",
             "Products": [
-                "KOD_AWM_Scope,1,-1,1,5,1",
-                "KOD_M82A2_Suppressor_Black,1,-1,1,5,1",
-                "KOD_M82A2_Suppressor_Tan,1,-1,1,5,1",
-                "KOD_M82A2_Suppressor_Grey,1,-1,1,5,1",
-                "KOD_AWM_Suppressor,1,-1,1,5,1",
-                "KOD_Suppressor_308,1,-1,1,5,1"
+                "KOD_VR80,1,-10,1,8000,4000",
+                "KOD_Raptr,1,-1,1,8000,4000",
+                "Hell_M1014,0.794597,-1,1,6500,3250",
+                "air_weapon_protecta,0.66874,-1,1,8000,4000"
+
             ]
         },
-		{
-			"CategoryName": "HellRetex Weapons",
-			"Products": [			
-				"Hell_DesertEagle,0.935139,-1,1,499,200",
+	{
+            "CategoryName": "Special Submachine Guns",
+            "Products": [
+                "air_weapon_9a91,0.66874,-1,1,4000,2000"
+            ]
+        },
+	{
+            "CategoryName": "Special Assault Rifles",
+            "Products": [
+                "KOD_AKALPHA,1,-1,1,10000,5000",
+                "KOD_Beowulf,1,-1,1,10000,5000",
+                "KOD_MBR_Black,1,-1,1,10000,5000",
+                "KOD_MBR_Tan,1,-1,1,10000,5000",
+                "KOD_MBR_UCPCamo,1,-1,1,10000,5000",
+                "KOD_MBR_DesertCamo,1,-1,1,10000,5000",
+                "KOD_MBR_WoodlandCamo,1,-1,1,10000,5000",
+                "Hell_HoneyBadger,0.836251,-1,1,10000,5000",
+                "Hell_HoneyBadger_BattleScars,0.836251,-1,1,10000,5000",
+		"air_weapon_scar,0.66874,-1,1,8000,4000",
+            ]
+        },
+	{
+            "CategoryName": "Light Machine Guns ",
+            "Products": [
+                "KOD_RPK16,1,-1,1,23000,2000",
+                "KOD_PKM,1,-1,1,23000,2000",
+                "air_weapon_pkm,0.66874,-1,1,23000,2000",
+                "air_weapon_rpk,0.66874,-1,1,23000,2000",
+                "air_weapon_m240,0.66874,-1,1,23000,2000",
+            ]
+        },
+	{
+            "CategoryName": "Special Sniper Rifles",
+            "Products": [
+                "KOD_AWM,1,-1,1,11000,2000",
+                "KOD_M110_Tan,1,-1,1,25000,2200",
+                "KOD_M110_Black,1,-1,1,25000,750",
+                "KOD_M82A2_Grey,1,1,1,40000,4500",
+                "KOD_M82A2_Black,1,1,1,40000,4500",
+                "KOD_M82A2_Tan,1,1,1,40000,4500",
+                "KOD_R700,1,-1,1,18000,2000",
+                "KOD_RSASS_Tan,1,3,1,11000,2000",
+                "KOD_DVL10,1,-1,1,8000,1000",
+                "KOD_DVL10M1,1,-1,1,8000,1000",
+                "KOD_M200_Grey,1,-1,1,18000,2000",
+                "KOD_M200_Black,1,-1,1,18000,2000",
+                "KOD_AX50,1,-1,1,25000,2200",
+                "Hell_M82,0.584804,-1,1,40000,4500",
+                "Hell_M200_Dark,0.584804,-1,1,18000,2000",
+                "Hell_M200_Light,0.584804,-1,1,18000,2000",
+                "Hell_M700R,0.891402,-1,1,18000,2000",
+                "Hell_M700R_Black,0.891402,-1,1,18000,2000",
+                "Hell_M700R_Camo,0.891402,-1,1,18000,2000",
+                "Hell_M700R_Urban,0.891402,-1,1,18000,2000",
                 "Hell_Hecate_II,0.584804,-1,1,499,200",
-                "Hell_Hecate_II_Green,0.584804,-1,1,499,200",
-                "Hell_Hecate_II_Sand,0.584804,-1,1,499,200",
-                "Hell_HoneyBadger,0.836251,-1,1,499,200",
-                "Hell_HoneyBadger_BattleScars,0.836251,-1,1,499,200",
-                "Hell_M82,0.584804,-1,1,499,200",
-                "Hell_M200_Dark,0.584804,-1,1,499,200",
-                "Hell_M200_Light,0.584804,-1,1,499,200",
-                "Hell_M700R,0.891402,-1,1,499,200",
-                "Hell_M700R_Black,0.891402,-1,1,499,200",
-                "Hell_M700R_Camo,0.891402,-1,1,499,200",
-                "Hell_M700R_Urban,0.891402,-1,1,499,200",
-                "Hell_M1014,0.794597,-1,1,499,200",
-                "Hell_MRAD,0.66874,-1,1,499,200",
-                "Hell_SVT40,0.946014,-1,1,499,200"
-            ]
-        },
-        {
-            "CategoryName": "HellRetex Ammunition",
-            "Products": [
-                "Ammo_127x99,1,-1,1,1,1",
-                "AmmoBox_127x99_10Rnd,1,-1,1,1,1",
-                "Ammo_6x35,1,-1,1,1,1",
-                "AmmoBox_6x35_20rnd,1,-1,1,1,1",
-                "Ammo_300AAC,1,-1,1,1,1",
-                "AmmoBox_300AAC_20rnd,1,-1,1,1,1",
-                "Ammo_408,1,-1,1,1,1",
-                "AmmoBox_408_20rnd,1,-1,1,1,1"
-            ]
-        },
-        {
-            "CategoryName": "HellRetex Magazines",
-            "Products": [
-                "Hell_Mag_DesertEagle_9Rnd,1,-1,1,1,1",
-                "Hell_Mag_Hecate_II_7Rnd,1,-1,1,1,1",
-                "Hell_Mag_HoneyBadger_30Rnd,1,-1,1,1,1",
-                "Hell_Mag_HoneyBadger_BattleScars_30Rnd,1,-1,1,1,1",
-                "Hell_Mag_M82_10Rnd,1,-1,1,1,1",
-                "Hell_Mag_M200_7Rnd,1,-1,1,1,1",
-                "Hell_Mag_SVT40_10Rnd,1,-1,1,1,1",
-                "Hell_M700R_Suppressor,1,-1,1,1,1",
-                "Hell_Mag_Drum_60Rnd,1,-1,60,1,1",
-                "Hell_Mag_Drum_100Rnd,1,-1,1,1,1"
-			]
-        },
-		{
-			"CategoryName": "AIR Weapons",
-            "Products": [ 
-				"air_weapon_vss,0.66874,-1,1,6000,900",
-                "air_weapon_val,0.66874,-1,1,6000,900",
-                "air_weapon_lr300,0.66874,-1,1,11600,2000",
+                "Hell_Hecate_II_Green,0.584804,-1,1,11000,2000",
+                "Hell_Hecate_II_Sand,0.584804,-1,1,11000,2000",
+                "Hell_DVL10,0.584804,-1,1,8000,1000",
+                "Hell_DVL10_Green,0.584804,-1,1,8000,1000",
+                "Hell_DVL10_Sand,0.584804,-1,1,8000,1000",
                 "air_weapon_aws,0.66874,-1,1,11000,2000",
                 "air_weapon_svd,0.66874,-1,1,11000,2000",
                 "air_weapon_svu,0.66874,-1,1,8000,1000",
-                "air_weapon_protecta,0.66874,-1,1,2500,1900",
-                "air_weapon_pkm,0.66874,-1,1,18000,2000",
-                "air_weapon_rpk,0.66874,-1,1,14000,2000",
-                "air_weapon_m240,0.66874,-1,1,13000,2000",
-                "air_weapon_hk51,0.66874,-1,1,4300,1300",
-				"air_weapon_scar,0.66874,-1,1,4300,1300",
-                "air_weapon_9a91,0.66874,-1,1,1200,100",
-                "air_weapon_deagle,0.66874,-1,1,500,100"
-            ]
-        },
-		{
-			"CategoryName": "AIR Magazines",
-			"Products": [
-				"air_weapon_protecta_mag,0.946014,-1,1,400,200",
-                "air_weapon_val_mag,0.946014,-1,1,400,200",
-                "air_weapon_pkm_mag,0.946014,-1,1,4000,200",
-                "air_weapon_aws_mag_75rnd,0.946014,-1,1,400,200",
-                "air_weapon_m240_mag,0.946014,-1,1,4000,1200",
-                "air_weapon_hk51_mag,0.946014,-1,1,400,200"
-			]
-		},
-        {
-            "CategoryName": "MASS Weapons",
-            "Products": [
-                "MassM110,0.66874,-1,1,18000,2000",
-                "MassSVT40,0.836251,-1,1,18000,2000",
-                "MassSVT40_Black,0.983874,-1,1,18000,2000",
-                "MassSVT40_Green,0.983874,-1,1,18000,2000",
-                "MassSVT40_Camo,0.983874,-1,1,18000,2000",
-                "MassKivaari,1,-1,1,18000,2000",
+                "MassM110,0.66874,-1,1,25000,2200",
                 "Massm300,1,-1,1,18000,2000",
                 "Massm300_camo,1,-1,1,18000,2000",
-                "MassAR15DMR,0.66874,-1,1,18000,2000",
-                "MassAR15DMR_Desert,0.66874,-1,1,18000,2000",
                 "Massm24,1,-1,1,18000,2000"
             ]
         },
-        {
-            "CategoryName": "MASS Magazines",
+	{
+            "CategoryName": "Special Ammunition",
             "Products": [
-                "Mass308STANAG,0.836251,-1,1,100,5",
-                "MassSVTmag,0.836251,-1,1,1000,5",
-                "kivaarimag,0.66874,-1,1,1000,5",
-                "Massm300mag,0.836251,-1,1,1000,5",
-                "Mass338M24mag,0.66874,-1,1,100,200"
+		"KOD_Ammo_50BMG,1,-1,10,100,25",
+                "KOD_Ammo_408,1,-1,10,100,25",
+                "Ammo_50CalBW,1,-1,10,100,25",
+                "KOD_Ammo_338,1,-1,10,100,25",
+                "KOD_Ammo_40lw,1,-1,10,100,25",
+		"Ammo_408,1,-1,1,100,25",
+                "Ammo_300AAC,1,-1,1,100,25",
+                "Ammo_6x35,1,-1,1,100,25",
+                "Ammo_127x99,1,-1,1,100,25",
+                "Ammo_12GaBB,1,-1,80,100,25",
+		"Ammo_57x28,1,-1,1,100,25",
+		"ammo_57x28_AP,1,-1,1,100,25",
+                "AmmoBox_127x99_10Rnd,1,-1,1,1000,250",
+                "AmmoBox_6x35_20rnd,1,-1,1,1000,250",
+                "AmmoBox_300AAC_20rnd,1,-1,1,1000,250",                
+                "AmmoBox_408_20rnd,1,-1,1,1000,250",
+                "Ammo_338,0.891402,-1,1,1000,250",
+                "AmmoBox_338,0.953766,-1,1,1000,250",
+                "Ammo_408Chey,0.918781,-1,1,1000,250",
+                "AmmoBox_408Chey,0.953766,-1,1,1000,250",
+		"AmmoBox_12gaBB,0.983874,-1,1,1000,250",
+		"AmmoBox_57x28_60rnd,1,-1,1,1000,250",
+		"AmmoBox_57x28_AP_60rnd,1,-1,1,1000,250"
+            ]
+        },
+
+	{
+            "CategoryName": "Special Magazines",
+            "Products": [
+		"Mag_KOD_M200_7rnd,1,-1,1,400,200",
+                "Mag_KOD_VSS_20rnd,1,-1,1,400,200",
+                "Mag_KOD_VSS_40rnd,1,-1,1,1000,250",
+                "Mag_KOD_SCARH_20Rnd,1,-1,1,400,200",
+                "Mag_KOD_SCARH_30Rnd,1,-1,1,1000,250",
+                "Mag_KOD_RSASS_20Rnd,1,-1,1,400,200",
+                "Mag_KOD_R700_7Rnd,1,-1,1,400,200",
+                "Mag_KOD_PKM_100Rnd,1,-1,1,4000,1200",
+                "Mag_KOD_M82A2_10Rnd,1,1,1,400,200",
+                "Mag_KOD_M110_10Rnd,1,-1,1,400,200",
+                "Mag_KOD_M110_20Rnd,1,-1,1,1000,250",
+                "Mag_KOD_HK417_20Rnd,1,-1,1,1000,250",
+                "Mag_KOD_VR80_10Rnd,1,-1,1,400,200",
+                "Mag_KOD_VR80_30Rnd,1,-1,1,1000,250",
+                "Mag_KOD_AX50_5Rnd,1,-1,1,400,200",
+                "Mag_KOD_AWM_5Rnd,1,-1,1,400,200",
+                "Mag_KOD_Beowulf_10Rnd,1,-1,1,400,1",
+                "Mag_KOD_AKALPHA_30Rnd,1,-1,1,1000,250",
+                "Mag_KOD_Drum308_50Rnd,1,-1,1,2000,450",
+		"Mag_KOD_RPK16_96Rnd,1,-1,1,4000,1200",
+                "Mag_KOD_Raptr_30rnd,1,-1,1,1000,250",
+                "Mag_KOD_DVL10M1_5Rnd,1,-1,1,400,200",
+                "Mag_KOD_DVL10_5Rnd,1,-1,1,400,200",
+                "Hell_Mag_DesertEagle_9Rnd,1,-1,1,100,30",
+                "Hell_Mag_Hecate_II_7Rnd,1,-1,1,400,200",
+                "Hell_Mag_HoneyBadger_30Rnd,1,-1,1,1000,250",
+                "Hell_Mag_HoneyBadger_BattleScars_30Rnd,1,-1,1,1000,250",
+                "Hell_Mag_M82_10Rnd,1,-1,1,400,200",
+                "Hell_Mag_M200_7Rnd,1,-1,1,400,200",
+                "Hell_Mag_SVT40_10Rnd,1,-1,1,400,200",
+                "Hell_Mag_Drum_60Rnd,1,-1,1,2000,450",
+                "Hell_Mag_Drum_100Rnd,1,-1,1,4000,1200",
+                "Hell_Mag_MRAD_10Rnd,1,-1,1,400,200",
+                "Hell_Mag_DVL10_10Rnd,1,-1,1,400,200",
+		"air_weapon_protecta_mag,0.946014,-1,1,400,200",
+                "air_weapon_val_mag,0.946014,-1,1,400,200",
+                "air_weapon_pkm_mag,0.946014,-1,1,4000,1200",
+                "air_weapon_aws_mag_75rnd,0.946014,-1,1,3000,1000",
+                "air_weapon_m240_mag,0.946014,-1,1,4000,1200",
+                "air_weapon_hk51_mag,0.946014,-1,1,400,200",
+                "Mass308STANAG,0.836251,-1,1,1000,250",
+                "MassSVTmag,0.836251,-1,1,1000,250",
+                "kivaarimag,0.66874,-1,1,1000,250",
+                "Massm300mag,0.836251,-1,1,1000,250",
+                "Mass338M24mag,0.66874,-1,1,2000,450"
+            ]
+        },
+	{
+            "CategoryName": "Special Buttstocks",
+            "Products": [
+		"KOD_AR15Skeleton_Buttstock,1,-1,1,1500,500",
+		"MassAR15AdjBttstck,0.56895,-1,1,3000,1000"
+            ]
+        },
+	{
+            "CategoryName": "Special Optics",
+            "Products": [
+		"KOD_AWM_Scope,1,-1,1,1500,500"
+            ]
+        },
+	{
+            "CategoryName": "Special Supressors",
+            "Products": [
+                "KOD_M82A2_Suppressor_Black,1,-1,1,500,200",
+                "KOD_M82A2_Suppressor_Tan,1,-1,1,500,200",
+                "KOD_M82A2_Suppressor_Grey,1,-1,1,500,200",
+                "KOD_AWM_Suppressor,1,-1,1,500,200",
+                "KOD_Suppressor_308,1,-1,1,500,200"
+		"Hell_M700R_Suppressor,1,-1,1,500,200"
+            ]
+        },
+
+        {
+            "CategoryName": "KOD Weapons",
+            "Products": [
+
+
+
+
             ]
         },
         {
-            "CategoryName": "MASS Ammo",
-            "Products": [
-                "Ammo_338,0.891402,-1,1,100,5",
-                "AmmoBox_338,0.953766,-1,1,1000,5",
-                "Ammo_408Chey,0.918781,-1,1,100,5",
-                "AmmoBox_408Chey,0.953766,-1,1,1000,5"
-            ]
-        },
 		{
 			"CategoryName": "MASS Attachments",
 			"Products": [
-				"MassAR15AdjBttstck,0.56895,-1,1,1000,5"
+
 			]
 		},
         {
