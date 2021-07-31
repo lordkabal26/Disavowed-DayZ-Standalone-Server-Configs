@@ -1,0 +1,78 @@
+{
+    "EnableNameTag": 1,
+    "MsgEnterZone": "You Have Entered The Safe Zone!",
+    "MsgExitZone": "You Have Left The Safe Zone!",
+    "MsgOnLeavingZone": "You're leaving the safezone in:",
+    "SafeAreaLocation": [
+        {
+            "SafeZoneStatut": "Jolling Black Market",
+            "X": 1113.9300537109376,
+            "Y": 9790.30859375,
+            "Radius": 20.0,
+            "Countdown": 10
+        },
+		{
+            "SafeZoneStatut": "Safe Point",
+            "X": 9561.6923828125,
+            "Y": 9665.095703125,
+            "Radius": 20.0,
+            "Countdown": 10
+        },
+		{
+            "SafeZoneStatut": "Safe Point",
+            "X": 6338.60302734375,
+            "Y": 9700.470703125,
+            "Radius": 20.0,
+            "Countdown": 10
+        },
+		{
+            "SafeZoneStatut": "Safe Point",
+            "X": 7163.2275390625,
+            "Y": 5271.47314453125,
+            "Radius": 20.0,
+            "Countdown": 10
+        },
+		{
+            "SafeZoneStatut": "Safe Point",
+            "X": 1000.5430297851563,
+            "Y": 2371.794189453125,
+            "Radius": 20.0,
+            "Countdown": 10
+        },
+		{
+            "SafeZoneStatut": "Safe Point",
+            "X": 3163.32861328125,
+            "Y": 5272.576171875,
+            "Radius": 20.0,
+            "Countdown": 10
+        },
+		{
+            "SafeZoneStatut": "Eggstatt Traders",
+            "X": 5167.10009765625,
+            "Y": 8498.64453125,
+            "Radius": 25.0,
+            "Countdown": 10
+        },
+		{
+            "SafeZoneStatut": "Burgensdorf Traders",
+            "X": 1552.92,
+            "Y": 3443.2,
+            "Radius": 25.0,
+            "Countdown": 10
+        },
+		{
+            "SafeZoneStatut": "Gollenhausen Traders",
+            "X": 9325.009765625,
+            "Y": 8955.080078125,
+            "Radius": 25.0,
+            "Countdown": 10
+        }
+    ],
+    "CleanUpTimer": 1200,
+    "ObjectsToDelete": [
+        "Paper"
+    ],
+    "SZSteamUIDs": [
+        "76561198047475641"
+    ]
+}

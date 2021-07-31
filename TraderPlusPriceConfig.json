@@ -40,7 +40,35 @@
                 "TunaCan,1,-1,1,4,2",
                 "SpaghettiCan,1,-1,1,5,2",
                 "BakedBeansCan,1,-1,1,5,2",
-                "TacticalBaconCan,1,-1,1,5,3"
+                "TacticalBaconCan,1,-1,1,5,3",
+				"MassMRE4,1,-1,1,100,25",
+				"MassMRE9,1,-1,1,100,25",
+				"MassMRE10,1,-1,1,100,25",
+				"MassMREPoppySeedCakeW,1,-1,1,100,25",
+				"MassMREPoppySeedCakeUW,1,-1,1,100,25",
+				"MassMRETortillaUW,1,-1,1,100,25",
+				"MassMRETortillaW,1,-1,1,100,25",
+				"MassMRERationHeater,1,-1,1,100,25",
+				"MassMRECrackersW,1,-1,1,100,25",
+				"MassMRECrackersUW,1,-1,1,100,25",
+				"MassMREBreadW,1,-1,1,100,25",
+				"MassMREBreadUW,1,-1,1,100,25",
+				"MassMREPB,1,-1,1,100,25",
+				"MassMREJelly,1,-1,1,100,25",
+				"MassMREGrapeJelly,1,-1,1,100,25",
+				"MassMRETobasco,1,-1,1,100,25",
+				"MassMREHotCheeseSpread,1,-1,1,100,25",
+				"MassMREOatmealCookieW,1,-1,1,100,25",
+				"MassMREOatmealCookieUW,1,-1,1,100,25",
+				"MassMREGum,1,-1,1,100,25",
+				"MassMREDBBCobblerW,1,-1,1,100,25",
+				"MassMREMCBeefStewW,1,-1,1,100,25",
+				"MassMREMCChilliMacW,1,-1,1,100,25",
+				"MassMREMCSpaghettiW,1,-1,1,100,25",
+				"MassMREMCSpaghetti,1,-1,1,100,25",
+				"MassMREMCChilliMac,1,-1,1,100,25",
+				"MassMREMCBeefStew,1,-1,1,100,25",
+				"MassMREDBBCobbler,1,-1,1,100,25"
             ]
         },
         {
@@ -225,6 +253,7 @@
                 "BurlapSack,0.967688,50,1,50,10",
                 "WoodenPlank,0.983874,-1,1,50,15",
                 "MetalPlate,0.983874,-1,1,60,18",
+				"NailBox,0.964083,-1,1,300,120",
                 "SmallProtectorCase,0.918781,-1,1,70,30",
                 "AmmoBox,0.836251,-1,1,80,35",
                 "SmallGasCanister,0.918781,-1,1,80,35",
@@ -280,12 +309,12 @@
                 "CattleProd,0.983874,-1,1,25,15",
                 "BaseballBat,0.959572,-1,1,35,17",
                 "NailedBaseballBat,0.983874,-1,1,45,20",
-		"Hell_JapaneseKatana_Gold,0.983874,-1,1,135,70",
+				"Hell_JapaneseKatana_Gold,0.983874,-1,1,135,70",
                 "Hell_JapaneseKatana_Black,0.983874,-1,1,135,70",
                 "Hell_RussianShashka,0.983874,-1,1,80,40",
                 "Hell_GolfClub,0.959572,-1,1,35,17",
                 "Hell_ModernAxe,0.967688,-1,1,35,17",
-		"Msp_BeanBasher,1,-1,1,200,100",
+				"Msp_BeanBasher,1,-1,1,200,100",
                 "Msp_PipeAxe,1,-1,1,200,100",
                 "Msp_PlainBat,1,-1,1,200,100",
                 "Msp_PlainBat_Blue,1,-1,1,200,100",
@@ -299,7 +328,7 @@
                 "Msp_BaseballBat_BarbedWire,0.983874,-1,1,200,100",
                 "Msp_Sawblade,0.836251,-1,1,200,100",
                 "Msp_VorpalKnife,1,-1,1,200,100",
-		"guitar_mung,0.836251,-1,1,200,100",
+				"guitar_mung,0.836251,-1,1,200,100",
                 "bowieknife_mung,0.891402,-1,1,200,100",
                 "Vesuri_mung,0.66874,-1,1,100,50",
                 "katana_Mung,0.66874,-1,1,500,250",
@@ -317,13 +346,13 @@
                 "MKII,0.891402,-1,1,320,160",
                 "Colt1911,0.918781,-1,1,340,180",
                 "Engraved1911,0.66874,-1,1,340,180",
-		"Hell_USP_9x19,0.836251,-1,1,340,180",
-		"Hell_KAC_PDW,0.836251,-1,1,1100,600",
-		"Nagant1895_mung,0.66874,-1,1,320,160",
+				"Hell_USP_9x19,0.836251,-1,1,340,180",
+				"Hell_KAC_PDW,0.836251,-1,1,1100,600",
+				"Nagant1895_mung,0.66874,-1,1,320,160",
                 "air_weapon_p99,0.66874,-1,1,340,180",
                 "air_weapon_p220,0.66874,-1,1,340,180",
                 "air_weapon_colt,0.66874,-1,1,340,180",
-		"air_weapon_makarov,0.66874,-1,1,100,50",
+				"air_weapon_makarov,0.66874,-1,1,100,50",
                 "air_weapon_bp1c,0.983874,-1,1,1600,450",
                 "air_weapon_tt,0.66874,-1,1,1300,500",
                 "MASS357M1911,0.891402,-1,1,340,180",
@@ -341,7 +370,7 @@
                 "CZ527,0.935139,-1,1,1000,250",
                 "Winchester70,0.764724,-1,1,1000,250",
                 "SKS,0.447214,-1,1,600,300",
-		"KOD_SKS,1,-1,1,600,300",
+				"KOD_SKS,1,-1,1,600,300",
                 "KOD_K98,1,-1,1,400,200",
                 "KOD_Ruger,1,-1,1,350,175",
                 "Hell_Gewehr43,0.946014,-1,1,499,200",
@@ -380,7 +409,7 @@
                 "Saiga,0.584804,-1,1,1500,600",
                 "KOD_DrumShotgun,1,-1,1,1500,600",
                 "KOD_KS23,1,-1,1,900,400",
-		"Hell_SPAS12,0.918781,-1,1,1500,600",
+				"Hell_SPAS12,0.918781,-1,1,1500,600",
                 "Hell_STF12,0.918781,-1,1,900,400",
                 "Hell_Supernova,0.918781,-1,1,1500,600",
                 "Hell_R870T,0.918781,-1,1,900,400",
@@ -397,7 +426,7 @@
                 "air_weapon_itaca,0.66874,-1,1,900,400",
                 "air_weapon_izh43,0.66874,-1,1,900,400",
                 "air_weapon_toz34,0.66874,-1,1,500,250",
-		"MASSTMP153,0.66874,-1,1,900,400",
+				"MASSTMP153,0.66874,-1,1,900,400",
                 "MASSMP153,0.891402,-1,1,900,400",
                 "MASSMP153Short,0.983874,-1,1,900,400",
                 "MASSarmsan,0.979833,80,1,1000,500"
@@ -413,7 +442,7 @@
                 "KOD_MP5SD,1,-1,1,1100,600",
                 "KOD_PPSh,1,-1,1,1100,600",
                 "KOD_Scorpion,1,-1,1,1100,600",
-		"Hell_MAT49,0.918781,-1,1,700,300",
+				"Hell_MAT49,0.918781,-1,1,700,300",
                 "Hell_MP9,0.918781,-1,1,800,350",
                 "Hell_MPX,0.918781,-1,1,800,350",
                 "Hell_Thompson,0.918781,-1,1,700,300",
@@ -423,7 +452,7 @@
                 "MASSPPSH41,0.764724,-1,1,1100,600",
                 "MASSPPSH41_Black,0.983874,-1,1,1100,600",
                 "MASSPPSH41_Green,0.983874,-1,1,1100,600",
-		"MASSPPSH41_Camo,0.983874,-1,1,1100,600"
+				"MASSPPSH41_Camo,0.983874,-1,1,1100,600"
             ]
         },
         {
@@ -446,7 +475,7 @@
                 "KOD_MCR_UCPCamo,1,-1,1,1600,750",
                 "KOD_MCR_WoodlandCamo,1,-1,1,1600,750",
                 "KOD_SA58,1,-1,1,1000,450",
-		"KOD_M16A4,1,1,1,1400,550",
+				"KOD_M16A4,1,-1,1,1400,550",
                 "KOD_HK417,1,-1,1,2000,950",
                 "KOD_ASH12,1,-1,1,1400,550",
                 "Hell_AEK971,0.836251,-1,1,1500,600",
@@ -461,11 +490,11 @@
                 "Hell_HK416D_Green,0.836251,-1,1,1600,750",
                 "Hell_HK416D_Sand,0.836251,-1,1,1600,750",
                 "Hell_L96A1,0.66874,-1,1,1400,550",
-		"Hell_M16A1,0.836251,-1,1,1400,550",
+				"Hell_M16A1,0.836251,-1,1,1400,550",
                 "Hell_M16M,0.836251,-1,1,1400,550",
                 "Hell_M16M_Raw,0.836251,-1,1,1400,550",
                 "Hell_SIG553,0.836251,-1,1,1400,550",
-		"air_weapon_ak74,0.66874,-1,1,2500,700",
+				"air_weapon_ak74,0.66874,-1,1,2500,700",
                 "air_weapon_aksu,0.66874,-1,1,2500,700",
                 "air_weapon_akm,0.66874,-1,1,3000,900",
                 "air_weapon_sg550,0.66874,-1,1,3000,900",
@@ -490,7 +519,7 @@
                 "VSS,0.2,-1,1,1600,960",
                 "B95,0.836251,-1,1,1700,1100",
                 "SVD,0.2,-1,1,2000,1200",
-		"csmcmillan_mung,0.2,-1,1,1000,500"
+				"csmcmillan_mung,0.2,-1,1,1000,500"
             ]
         },
         {
@@ -662,7 +691,7 @@
                 "M4_PlasticHndgrd,0.66874,-1,1,150,75",
                 "M4_RISHndgrd,0.66874,-1,1,200,100",
                 "M4_MPHndgrd,0.66874,-1,1,200,100",
-		"air_weapon_ak74_hngrd,0.983874,-1,1,140,20"
+				"air_weapon_ak74_hngrd,0.983874,-1,1,140,20"
             ]
         },
         {
@@ -708,7 +737,7 @@
                 "PSO1Optic,0.764724,-1,1,1100,600",
                 "PSO11Optic,0.447214,-1,1,1400,840",
                 "KazuarOptic,0.66874,-1,1,2200,1400",
-		"Hell_APX_SOM_Optic,1,-1,1,1100,600",
+				"Hell_APX_SOM_Optic,1,-1,1,1100,600",
                 "Hell_HAMR_Optic,1,-1,1,1100,600",
                 "Hell_HK416D_Backsight,1,-1,1,150,75",
                 "Hell_HK416D_Backsight_Green,1,-1,1,150,75",
@@ -718,11 +747,11 @@
                 "Hell_ScromeJ8_Optic,1,-1,1,900,500",
                 "Hell_Mk4_RMR_Optic,1,-1,1,900,500",
                 "Hell_MountingRail,1,-1,1,150,75",
-		"MassScoutLRS,0.918781,-1,1,1000,5",
+				"MassScoutLRS,0.918781,-1,1,1000,5",
                 "MassHolo,0.66874,-1,1,150,75",
                 "MassHolo2,0.66874,-1,1,150,75",
                 "MassPKA,0.66874,-1,1,900,500",
-                "MassScope,0.66874,-1,1,900,500",
+                "MassScope,0.66874,-1,1,900,500"
             ]
         },
         {
@@ -735,7 +764,7 @@
                 "Hell_MP9_Suppressor,1,-1,1,150,75",
                 "MassScoutSuppressor,0.836251,-1,1,1000,500",
                 "shotgun_Suppressor,0.918781,-1,1,1000,500",
-                "MassSuppressor308,0.447214,-1,1,1000,500",
+                "MassSuppressor308,0.447214,-1,1,1000,500"
             ]
         },
         {
@@ -764,7 +793,7 @@
             "CategoryName": "Flashlights",
             "Products": [
                 "Universallight,0.918781,-1,1,120,60",
-                "Hell_Surefire_Flashlight,1,-1,1,120,60",
+                "Hell_Surefire_Flashlight,1,-1,1,120,60"
             ]
         },
         {
@@ -1124,6 +1153,29 @@
                 "USMCJacket_Desert,0.2,-1,1,140,45",
                 "USMCJacket_Woodland,0.447214,-1,1,155,55",
                 "NBCJacketGray,0.2,-1,1,250,80"
+            ]
+        },
+		{
+            "CategoryName": "Armbands",
+            "Products": [
+				"Armband_Pink,0.983874,-1,1,15,5",
+                "Armband_Yellow,0.983874,-1,1,15,5",
+                "Armband_Orange,0.983874,-1,1,15,5",
+                "Armband_Red,0.983874,-1,1,15,5",
+                "Armband_Blue,0.983874,-1,1,15,5",
+                "Armband_White,0.983874,-1,1,15,5",
+                "Armband_Black,0.983874,-1,1,15,5",
+                "Armband_Green,0.983874,-1,1,15,5",
+                "MassArmband_TU,0.983874,-1,1,15,5",
+                "MassArmband_NCR,0.983874,-1,1,15,5",
+                "MassArmband_snowBDU,0.983874,-1,1,15,5",
+                "MassArmband_PartizanM,0.983874,-1,1,15,5",
+                "MassArmband_Mandrake,0.983874,-1,1,15,5",
+                "MassArmband_Woodland,0.983874,-1,1,15,5",
+                "MassArmband_Urban,0.983874,-1,1,15,5",
+                "MassArmband_Orel,0.983874,-1,1,15,5",
+                "MassArmband_BWS,0.983874,-1,1,15,5",
+                "MassArmband_BT,0.983874,-1,1,15,5"
             ]
         },
         {
@@ -1624,7 +1676,7 @@
                 "Nehr_PickupLadadoors_codriver_Toxic_Blue,0.66874,-1,1,1500,200",
                 "Nehr_PickupLadahood_Toxic_Blue,0.66874,-1,1,1500,200",
                 "Nehr_PickupLadatrunk_Toxic_Blue,0.66874,-1,1,1500,200",
-                "Nehr_PickupLadaWheel,0.959572,40,1,10000,400",
+                "Nehr_PickupLadaWheel,0.959572,-1,1,10000,400",
                 "TrailTesterHood,0.983874,-1,1,1500,200",
                 "TrailTesterdoors_cargo1,0.983874,-1,1,1500,200",
                 "TrailTesterdoors_cargo2,0.983874,-1,1,1500,200",
@@ -1653,7 +1705,7 @@
                 "DP_CocaBrick,0.959572,-1,1,50000,44800",
                 "PsilocybeMushroom,0.836251,-1,1,200,175",
                 "DisinfectantAlcohol,0.836251,-1,1,200,175",
-                "MassMeth,0.836251,-1,1,12000,6000",
+                "MassMeth,0.836251,-1,1,12000,6000"
             ]
         },
         {
@@ -1794,7 +1846,18 @@
                 "Msp_HousePlant_Philodendron,0.983874,-1,1,2000,200",
                 "Msp_HousePlant_FicusTree,0.983874,-1,1,2000,200",
                 "Msp_HousePlant_RubberFig,0.983874,-1,1,2000,200",
-                "Msp_HousePlant_Succulent,0.983874,-1,1,2000,200"
+                "Msp_HousePlant_Succulent,0.983874,-1,1,2000,200",
+				"MassDB1,0.983874,-1,1,2000,200",
+				"MassDB2,0.983874,-1,1,2000,200",
+				"MassDB3,0.983874,-1,1,2000,200",
+				"MassDB4,0.983874,-1,1,2000,200",
+				"MassDB5,0.983874,-1,1,2000,200",
+				"MassDB6,0.983874,-1,1,2000,200",
+				"MassDB7,0.983874,-1,1,2000,200",
+				"MassPaintR,0.983874,-1,1,200,100",
+				"MassPaint,0.983874,-1,1,200,100",
+				"Spraycan_Black,0.983874,-1,1,200,100",
+				"Spraycan_Green,0.983874,-1,1,200,100"
             ]
         },
         {
@@ -1831,7 +1894,9 @@
                 "MSP_WitchCauldron,0.66874,-1,1,3000,500",
                 "Msp_MedievalGibbetWithMount_Kit,1,-1,1,5000,600",
                 "Msp_MedievalGibbet_Kit,1,-1,1,5000,600",
-                "Msp_CoffinBox,0.66874,-1,1,5000,1000"
+                "Msp_CoffinBox,0.66874,-1,1,5000,1000",
+				"MassSmiley,0.983874,-1,1,1200,600",
+				"MassCatEars,0.983874,-1,1,1200,600"
             ]
         },
         {
@@ -2007,7 +2072,6 @@
                 "MVS_SlingPack_ERDL,0.447214,-1,1,100,50",
                 "MVS_SlingPack_Snow,0.447214,-1,1,100,50",
                 "MVS_Pakol_brown,0.447214,-1,1,100,50",
-                "MVS_Pakol_Comtac,0.447214,-1,1,100,50",
                 "MVS_Cap_OD,0.447214,-1,1,100,50",
                 "MVS_Cap_Tan,0.447214,-1,1,100,50",
                 "MVS_Cap_Black,0.447214,-1,1,100,50",
@@ -2136,7 +2200,13 @@
                 "MVS_Facemask_Snow,0.983874,-1,1,100,50",
                 "MVS_Comtacs_OD,0.447214,-1,1,100,50",
                 "MVS_Comtacs_Tan,0.447214,-1,1,100,50",
-                "MVS_Comtacs_Black,0.447214,-1,1,100,50",
+                "MVS_Comtacs_Black,0.447214,-1,1,100,50"
+
+            ]
+        },
+		        {
+            "CategoryName": "MVS Beards",
+            "Products": [
                 "MVS_Beard_01_Brown,0.66874,-1,1,100,50",
                 "MVS_Beard_01_LightBrown,0.66874,-1,1,100,50",
                 "MVS_Beard_01_Black,0.66874,-1,1,100,50",
@@ -2151,8 +2221,13 @@
                 "MVS_Beard_03_LightBrown,0.66874,-1,1,100,50",
                 "MVS_Beard_03_Black,0.66874,-1,1,100,50",
                 "MVS_Beard_03_Blonde,0.66874,-1,1,100,50",
-                "MVS_Beard_03_White,0.66874,-1,1,100,50",
-                "MVS_Patch_01,0.983874,-1,1,50,25",
+                "MVS_Beard_03_White,0.66874,-1,1,100,50"
+			]
+        },
+        {
+            "CategoryName": "MVS Patches",
+            "Products": [
+				"MVS_Patch_01,0.983874,-1,1,50,25",
                 "MVS_Patch_02,0.983874,-1,1,50,25",
                 "MVS_Patch_03,0.983874,-1,1,50,25",
                 "MVS_Patch_04,0.983874,-1,1,50,25",
@@ -2393,7 +2468,7 @@
                 "MVS_CountryFlag_Yugoslavia,0.983874,-1,1,50,25",
                 "MVS_CountryFlag_Zambia,0.983874,-1,1,50,25",
                 "MVS_CountryFlag_Zimbabwe,0.983874,-1,1,50,25"
-            ]
+			]
         },
         {
             "CategoryName": "Munghards Itempack",
@@ -2716,8 +2791,8 @@
         {
             "CategoryName": "Special Siderms",
             "Products": [
-		"KOD_Revolver50Cal,1,-1,1,2500,1250",
-		"Hell_DesertEagle,0.935139,-1,1,3000,1500",
+				"KOD_Revolver50Cal,1,-1,1,2500,1250",
+				"Hell_DesertEagle,0.935139,-1,1,3000,1500",
                 "air_weapon_deagle,0.66874,-1,1,3000,1500"
             ]
         },
@@ -2732,14 +2807,14 @@
                 "MassSVT40_Black,0.983874,-1,1,6000,3000",
                 "MassSVT40_Green,0.983874,-1,1,6000,3000",
                 "MassSVT40_Camo,0.983874,-1,1,6000,3000",
-		"air_weapon_vss,0.66874,-1,1,6000,3000",
+				"air_weapon_vss,0.66874,-1,1,6000,3000",
                 "air_weapon_val,0.66874,-1,1,6000,3000",
                 "air_weapon_lr300,0.66874,-1,1,11600,5800",
                 "air_weapon_hk51,0.66874,-1,1,6000,3000",
                 "air_weapon_lvoa,0.66874,-1,1,11600,5800",
                 "MassKivaari,1,-1,1,11600,5800",
                 "MassAR15DMR,0.66874,-1,1,10000,5000",
-                "MassAR15DMR_Desert,0.66874,-1,1,10000,5000",
+                "MassAR15DMR_Desert,0.66874,-1,1,10000,5000"
             ]
         },
 	{
@@ -2770,7 +2845,7 @@
                 "KOD_MBR_WoodlandCamo,1,-1,1,10000,5000",
                 "Hell_HoneyBadger,0.836251,-1,1,10000,5000",
                 "Hell_HoneyBadger_BattleScars,0.836251,-1,1,10000,5000",
-		"air_weapon_scar,0.66874,-1,1,8000,4000",
+				"air_weapon_scar,0.66874,-1,1,8000,4000"
             ]
         },
 	{
@@ -2780,7 +2855,7 @@
                 "KOD_PKM,1,-1,1,23000,2000",
                 "air_weapon_pkm,0.66874,-1,1,23000,2000",
                 "air_weapon_rpk,0.66874,-1,1,23000,2000",
-                "air_weapon_m240,0.66874,-1,1,23000,2000",
+                "air_weapon_m240,0.66874,-1,1,23000,2000"
             ]
         },
 	{
@@ -2824,18 +2899,18 @@
 	{
             "CategoryName": "Special Ammunition",
             "Products": [
-		"KOD_Ammo_50BMG,1,-1,10,100,25",
+				"KOD_Ammo_50BMG,1,-1,10,100,25",
                 "KOD_Ammo_408,1,-1,10,100,25",
                 "Ammo_50CalBW,1,-1,10,100,25",
                 "KOD_Ammo_338,1,-1,10,100,25",
                 "KOD_Ammo_40lw,1,-1,10,100,25",
-		"Ammo_408,1,-1,1,100,25",
+				"Ammo_408,1,-1,1,100,25",
                 "Ammo_300AAC,1,-1,1,100,25",
                 "Ammo_6x35,1,-1,1,100,25",
                 "Ammo_127x99,1,-1,1,100,25",
                 "Ammo_12GaBB,1,-1,80,100,25",
-		"Ammo_57x28,1,-1,1,100,25",
-		"ammo_57x28_AP,1,-1,1,100,25",
+				"Ammo_57x28,1,-1,1,100,25",
+				"ammo_57x28_AP,1,-1,1,100,25",
                 "AmmoBox_127x99_10Rnd,1,-1,1,1000,250",
                 "AmmoBox_6x35_20rnd,1,-1,1,1000,250",
                 "AmmoBox_300AAC_20rnd,1,-1,1,1000,250",                
@@ -2844,16 +2919,16 @@
                 "AmmoBox_338,0.953766,-1,1,1000,250",
                 "Ammo_408Chey,0.918781,-1,1,1000,250",
                 "AmmoBox_408Chey,0.953766,-1,1,1000,250",
-		"AmmoBox_12gaBB,0.983874,-1,1,1000,250",
-		"AmmoBox_57x28_60rnd,1,-1,1,1000,250",
-		"AmmoBox_57x28_AP_60rnd,1,-1,1,1000,250"
+				"AmmoBox_12gaBB,0.983874,-1,1,1000,250",
+				"AmmoBox_57x28_60rnd,1,-1,1,1000,250",
+				"AmmoBox_57x28_AP_60rnd,1,-1,1,1000,250"
             ]
         },
 
 	{
             "CategoryName": "Special Magazines",
             "Products": [
-		"Mag_KOD_M200_7rnd,1,-1,1,400,200",
+				"Mag_KOD_M200_7rnd,1,-1,1,400,200",
                 "Mag_KOD_VSS_20rnd,1,-1,1,400,200",
                 "Mag_KOD_VSS_40rnd,1,-1,1,1000,250",
                 "Mag_KOD_SCARH_20Rnd,1,-1,1,400,200",
@@ -2872,7 +2947,7 @@
                 "Mag_KOD_Beowulf_10Rnd,1,-1,1,400,1",
                 "Mag_KOD_AKALPHA_30Rnd,1,-1,1,1000,250",
                 "Mag_KOD_Drum308_50Rnd,1,-1,1,2000,450",
-		"Mag_KOD_RPK16_96Rnd,1,-1,1,4000,1200",
+				"Mag_KOD_RPK16_96Rnd,1,-1,1,4000,1200",
                 "Mag_KOD_Raptr_30rnd,1,-1,1,1000,250",
                 "Mag_KOD_DVL10M1_5Rnd,1,-1,1,400,200",
                 "Mag_KOD_DVL10_5Rnd,1,-1,1,400,200",
@@ -2887,7 +2962,7 @@
                 "Hell_Mag_Drum_100Rnd,1,-1,1,4000,1200",
                 "Hell_Mag_MRAD_10Rnd,1,-1,1,400,200",
                 "Hell_Mag_DVL10_10Rnd,1,-1,1,400,200",
-		"air_weapon_protecta_mag,0.946014,-1,1,400,200",
+				"air_weapon_protecta_mag,0.946014,-1,1,400,200",
                 "air_weapon_val_mag,0.946014,-1,1,400,200",
                 "air_weapon_pkm_mag,0.946014,-1,1,4000,1200",
                 "air_weapon_aws_mag_75rnd,0.946014,-1,1,3000,1000",
@@ -2903,14 +2978,14 @@
 	{
             "CategoryName": "Special Buttstocks",
             "Products": [
-		"KOD_AR15Skeleton_Buttstock,1,-1,1,1500,500",
-		"MassAR15AdjBttstck,0.56895,-1,1,3000,1000"
+				"KOD_AR15Skeleton_Buttstock,1,-1,1,1500,500",
+				"MassAR15AdjBttstck,0.56895,-1,1,3000,1000"
             ]
         },
 	{
             "CategoryName": "Special Optics",
             "Products": [
-		"KOD_AWM_Scope,1,-1,1,1500,500"
+				"KOD_AWM_Scope,1,-1,1,1500,500"
             ]
         },
 	{
@@ -2920,27 +2995,10 @@
                 "KOD_M82A2_Suppressor_Tan,1,-1,1,500,200",
                 "KOD_M82A2_Suppressor_Grey,1,-1,1,500,200",
                 "KOD_AWM_Suppressor,1,-1,1,500,200",
-                "KOD_Suppressor_308,1,-1,1,500,200"
-		"Hell_M700R_Suppressor,1,-1,1,500,200"
+                "KOD_Suppressor_308,1,-1,1,500,200",
+				"Hell_M700R_Suppressor,1,-1,1,500,200"
             ]
         },
-
-        {
-            "CategoryName": "KOD Weapons",
-            "Products": [
-
-
-
-
-            ]
-        },
-        {
-		{
-			"CategoryName": "MASS Attachments",
-			"Products": [
-
-			]
-		},
         {
             "CategoryName": "Black Hawks",
             "Products": [
