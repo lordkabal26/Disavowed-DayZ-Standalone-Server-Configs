@@ -2849,7 +2849,7 @@
             ]
         },
 	{
-            "CategoryName": "Light Machine Guns ",
+            "CategoryName": "Light Machine Guns",
             "Products": [
                 "KOD_RPK16,1,-1,1,23000,2000",
                 "KOD_PKM,1,-1,1,23000,2000",
