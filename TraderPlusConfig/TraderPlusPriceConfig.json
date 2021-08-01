@@ -1,5 +1,5 @@
 {
-    "EnableAutoCalculation": 0,
+    "EnableAutoCalculation": 1,
     "EnableAutoDestockAtRestart": 0,
     "TraderCategories": [
         {
@@ -41,6 +41,9 @@
                 "SpaghettiCan,1,-1,1,5,2",
                 "BakedBeansCan,1,-1,1,5,2",
                 "TacticalBaconCan,1,-1,1,5,3",
+				"MassHeli_MRE4,1,-1,1,100,25",
+				"MassHeli_MRE9,1,-1,1,100,25",
+				"MassHeli_MRE10,1,-1,1,100,25",
                 "MassMRE4,1,-1,1,100,25",
                 "MassMRE9,1,-1,1,100,25",
                 "MassMRE10,1,-1,1,100,25",
@@ -93,7 +96,18 @@
                 "Bone,1,-1,10,2,1",
                 "Lard,1,-1,200,2,1",
                 "Guts,1,-1,500,2,1",
-                "SmallGuts,1,-1,200,2,1"
+                "SmallGuts,1,-1,200,2,1",
+				"BearPelt,1,-1,500,4000,2000",
+                "CowPelt,1,-1,500,4000,2000",
+                "DeerPelt,1,-1,500,4000,2000",
+                "GoatPelt,1,-1,500,4000,2000",
+                "PigPelt,1,-1,500,4000,2000",
+                "SheepPelt,1,-1,500,4000,2000",
+                "WolfPelt,1,-1,500,4000,2000",
+                "WildboarPelt,1,-1,500,4000,2000",
+                "bearfurcowl_mung,1,-1,500,4000,2000",
+                "wolffurcowl_mung,1,-1,500,4000,2000",
+                "bearhead_mung,1,-1,500,10000,5000"
             ]
         },
         {
@@ -105,6 +119,7 @@
                 "SodaCan_Spite,1,-1,300,2,1",
                 "WaterBottle,1,-1,1000,5,2",
                 "Canteen,1,-1,1000,8,4",
+				"thermos_mung,1,-1,1000,5,2",
                 "Vodka,0.983874,-1,500,12,8"
             ]
         },
@@ -175,7 +190,8 @@
                 "Lockpick,0.935139,-1,1,20,10",
                 "Binoculars,0.863888,-1,1,30,15",
                 "FishingRod,0.909671,-1,1,60,25",
-                "TraderPlus_Wallet,0935139,-1,1,20,10"
+                "TraderPlus_Wallet,0935139,-1,1,20,10",
+				"Hell_ModernTomahawk,0.959572,-1,1,10,4"
             ]
         },
         {
@@ -278,7 +294,11 @@
                 "PowerGenerator,0.918781,-1,1,3000,1000",
                 "MediumTent,0.447214,-1,1,3000,500",
                 "CarTent,0.66874,-1,1,5000,700",
-                "LargeTent,0.66874,-1,1,7000,1200"
+                "LargeTent,0.66874,-1,1,7000,1200",
+				"Fabric,0.66874,-1,1,200,60",
+                "Scrapmetal,0.66874,-1,1,2000,600",
+				"CamonetWinter,0.918781,-1,1,1000,300",
+				"CamonetCivil,0.918781,-1,1,1000,300"
             ]
         },
         {
@@ -332,7 +352,13 @@
                 "bowieknife_mung,0.891402,-1,1,200,100",
                 "Vesuri_mung,0.66874,-1,1,100,50",
                 "katana_Mung,0.66874,-1,1,500,250",
-                "Scythe_Mung,0.935139,-1,1,200,100"
+                "Scythe_Mung,0.935139,-1,1,200,100",
+				"woodenhammer_mung,1,-1,1,200,100",
+                "baseballbatsaw_mung,1,-1,1,200,100",
+                "baseballbatbarb_mung,1,-1,1,200,100",
+                "cricket_bat_mung,1,-1,1,200,100",
+                "sushiknife_mung,0.66874,-1,1,100,50",
+                "castironpan_mung,0.66874,-1,1,100,50"
             ]
         },
         {
@@ -359,7 +385,10 @@
                 "MASSG18,0.2,-1,1,300,130",
                 "MASSG18_Green,0.2,-1,1,300,130",
                 "MASSM19,0.891402,-1,1,340,180",
-                "MASSM19_Wood,0.891402,-1,1,340,180"
+                "MASSM19_Wood,0.891402,-1,1,340,180",
+				"air_weapon_m712,0.66874,-1,1,340,180",
+                "air_weapon_fn57,0.66874,-1,1,1300,500",
+                "air_weapon_ots33,0.66874,-1,1,1300,500"
             ]
         },
         {
@@ -398,7 +427,14 @@
                 "MASSStevens301SuperShort_green,0.983874,-1,1,600,300",
                 "MASSStevens301SuperShort_tan,0.983874,-1,1,600,300",
                 "MassScout556,0.935139,-1,1,350,175",
-                "Massmini14,0.891402,-1,1,499,200"
+                "Massmini14,0.891402,-1,1,499,200",
+				"air_weapon_SKS_Black,1,-1,1,4000,1000",
+                "air_weapon_SKS_Green,1,-1,1,4000,1000",
+                "air_weapon_sks_tactical,1,-1,1,4000,1000",
+                "SawedoffMosin9130,1,-1,1,4000,1000",
+                "SawedoffMosin9130_Black,1,-1,1,4000,1000", 
+				"SawedoffMosin9130_Camo,1,-1,1,4000,1000", 
+				"SawedoffMosin9130_Green,1,-1,1,4000,1000"
             ]
         },
         {
@@ -429,7 +465,11 @@
                 "MASSTMP153,0.66874,-1,1,900,400",
                 "MASSMP153,0.891402,-1,1,900,400",
                 "MASSMP153Short,0.983874,-1,1,900,400",
-                "MASSarmsan,0.979833,80,1,1000,500"
+                "MASSarmsan,0.979833,80,1,1000,500",
+				"SawedoffIzh43Shotgun,1,-1,1,3000,700",
+                "SawedoffIzh18,1,-1,1,600,100",
+                "Hell_KS23,1,-1,1,1600,400",
+                "izh54_sawnoff_mung,1,-1,1,1000,700"
             ]
         },
         {
@@ -449,6 +489,9 @@
                 "air_weapon_MP40,0.66874,-1,1,700,300",
                 "air_weapon_mp5,0.66874,-1,1,1000,450",
                 "air_weapon_hk45,0.66874,-1,1,1100,600",
+				"air_weapon_p90,0.66874,-1,1,1100,600",
+                "air_weapon_ppsh41,0.66874,-1,1,1100,600",
+                "air_weapon_pp19vityaz,0.66874,-1,1,1100,600",
                 "MASSPPSH41,0.764724,-1,1,1100,600",
                 "MASSPPSH41_Black,0.983874,-1,1,1100,600",
                 "MASSPPSH41_Green,0.983874,-1,1,1100,600",
@@ -506,7 +549,10 @@
                 "air_weapon_g36,0.66874,-1,1,4500,1100",
                 "air_weapon_groza,0.66874,-1,1,4500,1100",
                 "air_weapon_abakan,0.66874,-1,1,3000,900",
-                "air_weapon_scar,0.66874,-1,1,8000,4000",
+				"air_weapon_stg,1,-1,1,1400,550",
+                "air_weapon_ace21,1,-1,1,1400,550",
+                "air_weapon_scar,0.66874,-1,1,2000,1000",
+                "air_weapon_m16,0.66874,-1,1,1500,800",
                 "MassType81,0.836251,-1,1,1400,5550",
                 "MassM16,0.66874,-1,1,1400,5550",
                 "MassB52,0.891402,-1,1,3000,900",
@@ -535,7 +581,13 @@
                 "M18SmokeGrenade_White,0.66874,-1,1,300,100",
                 "RDG2SmokeGrenade_Black,0.447214,-1,1,300,100",
                 "RDG2SmokeGrenade_White,0.447214,-1,1,300,100",
-                "FlashGrenade,0.66874,-1,1,300,100"
+                "FlashGrenade,0.66874,-1,1,300,100",
+				"air_grenade_rdg,1,-1,10,50,25",
+                "air_grenade_rg42,1,-1,10,75,25",
+                "air_grenade_rgo,1,-1,10,75,25",
+                "air_grenade_gas,1,-1,10,100,25",
+                "air_grenade_zarya,1,-1,10,100,25",
+                "dynamitestick_Mung,1,-1,10,100,25"
             ]
         },
         {
@@ -571,6 +623,9 @@
                 "Ammo_792x57,1,-1,1,1,1",
                 "Ammo_762x25,1,-1,1,30,3",
                 "Ammo_9x18,1,-1,1,20,2",
+				"Ammo_792x33,0.983874,-1,1,200,120",
+				"AmmoBox_792x57_60Rnd,1,-1,1,200,120",
+                "AmmoBox_792x33_35Rnd,1,-1,1,200,120",
                 "AmmoBox_380_35rnd,0.953766,-1,1,28,-1",
                 "AmmoBox_9x19_25rnd,0.953766,-1,1,20,*1",
                 "AmmoBox_45ACP_25rnd,0.953766,-1,1,20,*1",
@@ -670,6 +725,20 @@
                 "air_weapon_p220_mag,0.946014,-1,1,400,200",
                 "air_weapon_sg550_mag,0.946014,-1,1,400,200",
                 "air_weapon_g36_mag,0.946014,-1,1,400,200",
+				"air_weapon_stg_mag,0.891402,-1,1,220,110",
+                "air_weapon_p90_mag,0.891402,-1,1,220,110",
+                "air_weapon_m16_mag,0.891402,-1,1,220,110",
+                "air_weapon_ppsh_71rnd_mag,0.891402,-1,1,220,110",
+                "air_weapon_Vihr_mag_30rnd,0.891402,-1,1,220,110",
+                "air_weapon_vityaz_mag,0.891402,-1,1,220,110",
+                "air_weapon_m712_mag,0.891402,-1,1,40,20",
+                "air_weapon_fn57_mag,0.891402,-1,1,40,20",
+                "air_weapon_ots33_mag,0.891402,-1,1,40,20",
+                "air_weapon_makarov_mag,0.891402,-1,1,40,20",
+                "Mag_Ruger1022_15Rnd,0.891402,-1,1,40,20",
+                "Mag_Ruger1022_30Rnd,0.891402,-1,1,80,40",
+                "Hell_Mag_Vepr_10Rnd,0.946014,-1,1,400,200",
+                "Mass_BetaC,0.891402,-1,1,220,110",
                 "MassG18Mag,0.836251,-1,1,400,200",
                 "Massppshdrum,0.66874,-1,1,400,200",
                 "Massppshbox,0.891402,-1,1,400,200",
@@ -752,7 +821,16 @@
                 "MassHolo,0.66874,-1,1,150,75",
                 "MassHolo2,0.66874,-1,1,150,75",
                 "MassPKA,0.66874,-1,1,900,500",
-                "MassScope,0.66874,-1,1,900,500"
+                "MassScope,0.66874,-1,1,900,500",
+				"air_module_fn2000,1,-1,1,900,500",
+                "air_module_aug,1,-1,1,900,500",
+                "air_module_lr300,1,-1,1,900,500",
+                "air_module_k98,1,-1,1,900,500",
+                "air_module_kobra,1,-1,1,900,500",
+                "air_module_okp,1,-1,1,900,500",
+                "air_module_pka,1,-1,1,900,500",
+                "MassSVTMount,0.66874,-1,1,150,60",
+                "Mass1P69,1,-1,1,900,500"
             ]
         },
         {
@@ -828,7 +906,16 @@
                 "TacticalGloves_Green,0.584804,-1,1,35,10",
                 "OMNOGloves_Gray,0.66874,-1,1,40,12",
                 "OMNOGloves_Brown,0.66874,-1,1,40,12",
-                "NBCGlovesGray,0.2,-1,1,65,20"
+                "NBCGlovesGray,0.2,-1,1,65,20",
+				"MasssNBCglovesBlue,0.66874,-1,1,1000,5",
+                "Msp_BoxingGloves_Black,0.66874,-1,1,1000,5",
+                "Msp_BoxingGloves_Red,0.66874,-1,1,1000,5",
+                "Msp_BoxingGloves_Blue,0.66874,-1,1,1000,5",
+                "Msp_BoxingGloves_Gold,0.66874,-1,1,1000,5",
+                "Msp_M_BoxingGloves_Black,0.66874,-1,1,1000,5",
+                "Msp_M_BoxingGloves_Red,0.66874,-1,1,1000,5",
+                "Msp_M_BoxingGloves_Blue,0.66874,-1,1,1000,5",
+                "Msp_M_BoxingGloves_Gold,0.66874,-1,1,1000,5"
             ]
         },
         {
@@ -903,7 +990,28 @@
                 "Ushanka_Blue,0.72478,-1,1,50,15",
                 "Ushanka_Black,0.72478,-1,1,50,15",
                 "Ushanka_Green,0.72478,-1,1,55,18",
-                "NBCHoodGray,0.2,-1,1,100,30"
+                "NBCHoodGray,0.2,-1,1,100,30",
+				"MassFedora_Black,0.863888,-1,1,16,5",
+				"MassFedora_White,0.863888,-1,1,16,5",
+				"MassFedora_Pink,0.863888,-1,1,16,5",
+				"MassFedora_Yellow,0.863888,-1,1,16,5",
+				"MassFedora_Red,0.863888,-1,1,16,5",
+				"MassFedora_Blue,0.863888,-1,1,16,5",
+				"MassFedora_Grey,0.863888,-1,1,16,5",
+				"MassFedora_Brown,0.863888,-1,1,16,5",
+				"MassFedora_Beige,0.863888,-1,1,16,5",
+				"MasssSmersh,1,-1,1,1000,5",
+				"MasssSmershwinter,0.983874,-1,1,1000,5",
+				"Masssurbancamohat,0.946014,-1,1,1000,5",
+				"MassscamoBooniehat,0.891402,-1,1,1000,5",
+				"MasssBeigeUshanka,0.967688,50,1,1000,5",
+				"MasssCoyoteBPUrban,1,-1,1,1000,5",
+				"MasssCanvasBag,0.66874,-1,1,1000,5",
+				"Masssblackgp5,0.836251,-1,1,1000,5",
+				"Masssmichblack,0.836251,-1,1,1000,5",
+				"MasssHuntingCowboyhat,0.946014,-1,1,1000,5",
+				"MasssWinterHuntingHood,0.891402,-1,1,1000,5",
+				"MasssNBChoodYellow,0.66874,-1,1,1000,5"
             ]
         },
         {
@@ -959,7 +1067,12 @@
                 "Ssh68Helmet,0.836251,-1,1,250,80",
                 "BallisticHelmet_UN,0.2,-1,1,250,80",
                 "BallisticHelmet_Black,0.2,-1,1,300,100",
-                "BallisticHelmet_Green,0.2,-1,1,350,110"
+                "BallisticHelmet_Green,0.2,-1,1,350,110",
+                "Massww2SShelmet,0.891402,-1,1,70,18",
+                "MassCBhelmet,0.891402,-1,1,70,18",
+                "MassCBhelmet_Green,0.891402,-1,1,70,18",
+                "Msp_BoxingHelmet_Red,0.891402,-1,1,70,18",
+                "Msp_BoxingHelmet_Blue,0.891402,-1,1,70,18"
             ]
         },
         {
@@ -978,7 +1091,11 @@
                 "Balaclava3Holes_Black,0.794597,-1,1,55,13",
                 "Balaclava3Holes_Green,0.794597,-1,1,60,15",
                 "WeldingMask,0.66874,-1,1,70,20",
-                "GP5GasMask,1,-1,1,120,40"
+                "GP5GasMask,1,-1,1,120,40",
+                "SkullMask,-1,1,250,70",
+                "DallasMask,-1,1,250,70",
+                "HoxtonMask,-1,1,250,70",
+                "MassSmiley,0.983874,-1,1,1200,600"
             ]
         },
         {
@@ -1011,7 +1128,8 @@
                 "TacticalShirt_Grey,0.584804,-1,1,36,10",
                 "TacticalShirt_Tan,0.584804,-1,1,37,10",
                 "TacticalShirt_Black,0.584804,-1,1,38,10",
-                "TacticalShirt_Olive,0.584804,-1,1,40,12"
+                "TacticalShirt_Olive,0.584804,-1,1,40,12",
+				"MassGDShirt,1,-1,1,8,2"
             ]
         },
         {
@@ -1045,7 +1163,32 @@
                 "SmershVest,0.66874,-1,1,150,50",
                 "HighCapacityVest_Black,0.447214,-1,1,200,60",
                 "HighCapacityVest_Olive,0.447214,-1,1,230,75",
-                "PlateCarrierVest,0.447214,-1,1,250,80"
+                "PlateCarrierVest,0.447214,-1,1,250,80",
+				"Mass_WW2Vest,0.891402,-1,1,1000,5",
+                "Mass_PressVestBlack,0.891402,-1,1,1000,5",
+                "Masswoodlandcamovest,0.836251,-1,1,1000,5",
+                "MassSmershvestcomplete,0.2,-1,1,1000,5",
+                "MassSmershvestWintercomplete,0.2,-1,1,1000,5",
+                "MassUKAssVestWinter,0.836251,-1,1,1000,5",
+                "MasssPlateCarrierHolster_Black,0.447214,-1,1,1000,5",
+                "MasssPlateCarrierHolster_PartizanM,0.447214,-1,1,1000,5",
+                "MasssPlateCarrierHolster_Winter,0.447214,-1,1,1000,5",
+                "MasssPlateCarrierHolster_ODG,0.447214,-1,1,1000,5",
+                "MasssPlateCarrierPouches_Black,0.447214,-1,1,1000,5",
+                "MasssPlateCarrierPouches_PartizanM,0.447214,-1,1,1000,5",
+                "MasssPlateCarrierPouches_Winter,0.447214,-1,1,1000,5",
+                "MasssPlateCarrierPouches_ODG,0.447214,-1,1,1000,5",
+                "MasssPlateCarrier_PartizanM,1,-1,1,1000,5",
+                "MasssPlateCarrier_Black,1,-1,1,1000,5",
+                "MasssPlateCarrier_Winter,1,-1,1,1000,5",
+                "MasssPlateCarrier_ODG,1,-1,1,1000,5",
+                "MasssHeavyPlateVest_ODG,0.983874,-1,1,1000,5",
+                "MasssHeavyPlateVest_Winter,0.983874,-1,1,1000,5",
+                "MasssHeavyPlateVest_Black,0.983874,-1,1,1000,5",
+                "MasssHeavyPlateVest_PartizanM,0.983874,-1,1,1000,5",
+                "MasssHeavyPlateVest_Beige,0.983874,-1,1,1000,5",
+                "MasssSmershvestWW2complete,0.2,-1,1,1000,5",
+                "MasssSmershvestblackcomplete,0.2,-1,1,1000,5"
             ]
         },
         {
@@ -1140,7 +1283,42 @@
                 "GorkaEJacket_Summer,0.584804,-1,1,140,45",
                 "USMCJacket_Desert,0.2,-1,1,140,45",
                 "USMCJacket_Woodland,0.447214,-1,1,155,55",
-                "NBCJacketGray,0.2,-1,1,250,80"
+                "NBCJacketGray,0.2,-1,1,250,80",
+				"Masswoodlandcamosweater,0.836251,-1,1,1000,5",
+                "MasssCamoHoodie,0.983874,-1,1,1000,5",
+                "MasssCUUquiltedJacket,0.794597,-1,1,1000,5",
+                "Masssurbancamom65,0.66874,-1,1,1000,5",
+                "MasssSM90Top,0.66874,-1,1,1000,5",
+                "MasssSM90WTop,0.66874,-1,1,1000,5",
+                "MasssBlackGorkatop,0.836251,-1,1,1000,5",
+                "MasssGorkaInvertWinterTop,0.836251,-1,1,1000,5",
+                "MasssGorkaInvertWoodlandTop,0.836251,-1,1,1000,5",
+                "MasssGorkaInvertFlecktarnTop,0.836251,-1,1,1000,5",
+                "MasssUSww2top,1,-1,1,1000,5",
+                "MasssGokuShirt,0.918781,-1,1,1000,5",
+                "MasssTropicamTop,0.836251,-1,1,1000,5",
+                "MasssMandraketop,0.66874,-1,1,1000,5",
+                "MasssWinterHunterTop,0.935139,-1,1,1000,5",
+                "MasssWinterCUUJacket,0.836251,-1,1,1000,5",
+                "MasssWinterBDUJacket,0.946014,-1,1,1000,5",
+                "MasssTUhikingjacket,0.794597,-1,1,1000,5",
+                "MasssOrelTopgreen,0.891402,-1,1,1000,5",
+                "MasssNBCJacketYellow,0.66874,-1,1,1000,5",
+                "MasssBlackJacket,0.964083,45,1,1000,5",
+                "MasssBeigeJacket,0.964083,45,1,1000,5",
+                "MasssSSww2Camotop,0.66874,-1,1,1000,5",
+                "MasssDetectiveCoat,0.964083,45,1,1000,5",
+                "MasssDetectiveCoat_Black,0.964083,45,1,1000,5",
+                "MasssRainCoatcourier_Black,0.983874,-1,1,1000,5",
+                "MasssRainCoatcourier_Blue,0.983874,-1,1,1000,5",
+                "MasssRainCoatcourier_Green,0.983874,-1,1,1000,5",
+                "MasssRainCoatcourier_Orange,0.983874,-1,1,1000,5",
+                "MasssRainCoatcourier_Pink,0.983874,-1,1,1000,5",
+                "MasssRainCoatcourier_Red,0.983874,-1,1,1000,5",
+                "MasssRainCoatcourier_Yellow,0.983874,-1,1,1000,5",
+                "MasssRainCoatcourier_Woodland,0.983874,-1,1,1000,5",
+                "MasssRainCoatcourier_Partizan,0.983874,-1,1,1000,5",
+                "MasssRainCoatcourier_Urban,0.983874,-1,1,1000,5"
             ]
         },
         {
@@ -1266,7 +1444,27 @@
                 "GorkaPants_PautRev,0.447214,-1,1,130,40",
                 "GorkaPants_Autumn,0.447214,-1,1,130,40",
                 "GorkaPants_Summer,0.584804,-1,1,130,40",
-                "NBCPantsGray,0.2,-1,1,200,65"
+                "NBCPantsGray,0.2,-1,1,200,65",
+				"MasssNBCpantsYellow,0.66874,-1,1,1000,5",
+                "MasssBlackGorkabottom,0.836251,-1,1,1000,5",
+                "MasssGorkaInvertWinterPants,0.836251,-1,1,1000,5",
+                "MasssGorkaInvertWoodlandPants,0.836251,-1,1,1000,5",
+                "MasssGorkaInvertFlecktarnPants,0.836251,-1,1,1000,5",
+                "MasssTropicamPants,0.836251,-1,1,1000,5",
+                "Massswoodlandcargopants,0.836251,-1,1,1000,5",
+                "Masssurbancamocargopants,0.836251,-1,1,1000,5",
+                "Masssjeanshorts,0.946014,-1,1,1000,5",
+                "MasssMandrakebottom,0.66874,-1,1,1000,5",
+                "MasssWinterCUUPants,0.794597,-1,1,1000,5",
+                "MasssWinterBDUPants,0.946014,-1,1,1000,5",
+                "MasssWinterHunterPants,0.935139,-1,1,1000,5",
+                "Masssorelpantsgreen,0.891402,-1,1,1000,5",
+                "MasssSM90Pants,0.66874,-1,1,1000,5",
+                "MasssSM90WPants,0.66874,-1,1,1000,5",
+                "MasssSSww2CamoBreeches,0.66874,-1,1,1000,5",
+                "MasssSSww2Camopants,0.66874,-1,1,1000,5",
+                "Msp_BoxingShorts_Red,0.891402,-1,1,15,3",
+                "Msp_BoxingShorts_Blue,0.891402,-1,1,15,3"
             ]
         },
         {
@@ -1323,7 +1521,10 @@
                 "MilitaryBoots_Beige,0.2,-1,1,110,35",
                 "MilitaryBoots_Brown,0.2,-1,1,110,35",
                 "MilitaryBoots_Black,0.2,-1,1,110,35",
-                "NBCBootsGray,0.2,-1,1,150,50"
+                "NBCBootsGray,0.2,-1,1,150,50",
+				"MasssNBCbootsYellow,0.66874,-1,1,1000,5",
+                "MasssBlackYellowMB,0.946014,-1,1,1000,5",
+                "Masss_Sneakers,0.946014,-1,1,1000,5"
             ]
         },
         {
@@ -1343,7 +1544,23 @@
                 "GhillieTop_Woodland,1,-1,1,600,200",
                 "GhillieSuit_Mossy,0.983874,-1,1,1000,300",
                 "GhillieSuit_Tan,0.983874,-1,1,1000,300",
-                "GhillieSuit_Woodland,0.983874,-1,1,1000,300"
+                "GhillieSuit_Woodland,0.983874,-1,1,1000,300",
+				"MasssGhillieSuitWoodland,0.983874,-1,1,1000,5",
+                "MasssGhillieSuitMossy,0.983874,-1,1,1000,5",
+                "MasssGhillieSuitSnow,0.983874,-1,1,1000,5",
+                "MasssGhillieTopWoodland,0.983874,-1,1,1000,5",
+                "MasssGhillieTopMossy,0.983874,-1,1,1000,5",
+                "MasssGhillieTopSnow,0.983874,-1,1,1000,5",
+                "MasssGhillieHood_Woodland,0.983874,-1,1,1000,5",
+                "MasssGhillieHood_Snowy,0.983874,-1,1,1000,5",
+                "MasssGhillieHoodMossy,0.983874,-1,1,1000,5",
+                "MasssGhillieSuitBoxWoodland,1,-1,1,1000,5",
+                "MasssGhillieSuitBoxMossy,1,-1,1,1000,5",
+                "MasssGhillieSuitBoxWinter,1,-1,1,1000,5",
+                "MasssGhillieTopBoxWoodland,1,-1,1,1000,5",
+                "MasssGhillieTopBoxWinter,1,-1,1,1000,5",
+                "MasssGhillieTopBoxMossy,1,-1,1,1000,5",
+                "MasssWinterGhillieWrap,0.983874,-1,1,1000,5"
             ]
         },
         {
@@ -1351,14 +1568,19 @@
             "Products": [
                 "ChestHolster,0.918781,-1,1,60,20",
                 "PlateCarrierHolster,0.66874,-1,1,60,20",
-                "PlateCarrierPouches,0.66874,-1,1,100,20"
+                "PlateCarrierPouches,0.66874,-1,1,100,20",
+				"MasssLargePlateCarrierPouches,0.66874,-1,1,100,20",
+				"MasssLargePlateCarrierPouches_Black,0.66874,-1,1,100,20",
+				"MasssLargePlateCarrierPouches_Tan,0.66874,-1,1,100,20"
             ]
         },
         {
             "CategoryName": "Belt",
             "Products": [
                 "CivilianBelt,0.891402,-1,1,100,30",
-                "MilitaryBelt,0.764724,-1,1,100,30"
+                "MilitaryBelt,0.764724,-1,1,100,30",
+				"MasssToolbelt,0.953766,-1,1,1000,5",
+                "MassMolleBeltSnow,0.953766,-1,1,1000,5"
             ]
         },
         {
@@ -1394,7 +1616,80 @@
                 "MountainBag_Green,0.764724,-1,1,360,100",
                 "AliceBag_Black,0.2,-1,1,400,150",
                 "AliceBag_Green,0.2,-1,1,400,150",
-                "AliceBag_Camo,0.2,-1,1,500,220"
+                "AliceBag_Camo,0.2,-1,1,500,220",
+				"Masssczech,0.946014,-1,1,1000,5",
+                "MasssczechWinter,0.836251,-1,1,1000,5",
+                "MasssWinterTortilla,0.836251,-1,1,1000,5",
+                "MassscamoTaloon,0.836251,-1,1,1000,5",
+                "MassscamoTaloon1,0.836251,-1,1,1000,5",
+                "Masssbrownhuntingbp,0.891402,-1,1,1000,5",
+                "Masssblackhuntingbp,0.66874,-1,1,1000,5",
+                "MasssWinterHuntingbp,0.836251,-1,1,1000,5",
+                "MassMolleBagBlack,0.447214,-1,1,1000,5",
+                "MasssMolleBagDesert,0.447214,-1,1,1000,5",
+                "MasssMolleBagGorka,0.447214,-1,1,1000,5",
+                "Masssbag,1,-1,1,1000,5",
+                "Masssbag2,1,-1,1,1000,5",
+                "Masssbag3,1,-1,1,1000,5",
+                "Masssbag4,1,-1,1,1000,5",
+                "Masssmedbag,0.584804,-1,1,1000,5",
+                "Masssmedbag_blue,0.584804,-1,1,1000,5",
+                "Masssmedbag_green,0.584804,-1,1,1000,5",
+                "MasssSmershblack,0.836251,-1,1,1000,5",
+                "MasssImprovisedBag_Black,0.983874,-1,1,1000,5",
+                "MasssImprovisedBag_Blue,0.983874,-1,1,1000,5",
+                "MasssImprovisedBag_Green,0.983874,-1,1,1000,5",
+                "MasssImprovisedBag_Orange,0.983874,-1,1,1000,5",
+                "MasssImprovisedBag_Pink,0.983874,-1,1,1000,5",
+                "MasssImprovisedBag_Red,0.983874,-1,1,1000,5",
+                "MasssImprovisedBag_Yellow,0.983874,-1,1,1000,5",
+                "MasssImprovisedBag_Woodland,0.983874,-1,1,1000,5",
+                "MasssImprovisedBag_Partizan,0.983874,-1,1,1000,5",
+                "MasssImprovisedBag_Urban,0.983874,-1,1,1000,5",
+                "MasssMedical_Bag,0.584804,-1,1,1000,5",
+                "MasssMedical_Bag_Blue,0.584804,-1,1,1000,5",
+                "MasssMedical_Bag_Green,0.584804,-1,1,1000,5",
+                "MasssNBC_Bag,0.863888,-1,1,1000,5", 
+				"MassRuckBagDesert,1,-1,1,1000,5",
+                "MasssRuckBagBlack,1,-1,1,1000,5",
+                "MasssRuckBagGorka,1,-1,1,1000,5",
+                "MasssRuckBagGreen,1,-1,1,1000,5",
+                "MassSurvivorBag,1,-1,1,1000,5",
+				"MassSurvivorBag_Green,1,-1,1,1000,5",
+                "MassSurvivorBag_Black,1,-1,1,1000,5",
+                "MassSurvivorBag_Tan,1,-1,1,1000,5",
+                "MassSurvivorBag_Winter,1,-1,1,1000,5"
+            ]
+        },
+		{
+            "CategoryName": "Mass's ManyItemOverhaul",
+            "Products": [
+                "MassRatnik,0.983874,-1,1,1000,5",
+                "MassRatnik_Black,0.983874,-1,1,1000,5",
+                "MassRatnik_Tan,0.983874,-1,1,1000,5",
+                "MassRuckBagDesert,0.983874,-1,1,1000,5",
+                "MassRuckBagBlack,0.983874,-1,1,1000,5",
+                "MassRuckBagGorka,0.983874,-1,1,1000,5",
+                "MassRuckBagGreen,0.983874,-1,1,1000,5",
+                "MassSlingBag,0.983874,-1,1,1000,5",
+                "MassSlingBagDesert,0.983874,-1,1,1000,5",
+                "MassSlingBagGorka,0.983874,-1,1,1000,5",
+                "MassLargeSmersh,0.983874,-1,1,1000,5",
+                "MassLargeSmersh_Black,0.983874,-1,1,1000,5",
+                "MassLargeSmersh_Tan,0.983874,-1,1,1000,5",
+                "MassMolleBelt,0.983874,-1,1,1000,5",
+                "MassMolleBeltBlack,0.983874,-1,1,1000,5",
+                "MassMolleBeltODG,0.983874,-1,1,1000,5",
+                "MassMolleBeltWD,0.983874,-1,1,1000,5",
+                "MassTacticalBag,0.983874,-1,1,1000,5",
+                "MassTacticalBagBlack,0.983874,-1,1,1000,5",
+                "MassTacticalBagWD,0.983874,-1,1,1000,5",
+                "MassLargeMollePouch,0.983874,-1,1,1000,5",
+                "MassLargeMollePouchBlack,0.983874,-1,1,1000,5",
+                "MassLargeMollePouchGorka,0.983874,-1,1,1000,5",
+                "MassLargeMollePouchGreen,0.983874,-1,1,1000,5",
+                "Massshenron,0.983874,-1,1,1000,5",
+                "MassStockPouch,0.983874,-1,1,1000,5"
             ]
         },
         {
@@ -1749,7 +2044,8 @@
                 "Msp_MilitaryCrate_Green,0.447214,-1,1,5000,1000",
                 "Msp_MilitaryCrate_Grey,0.447214,-1,1,5000,1000",
                 "Msp_MilitaryCrate_Olive,0.447214,-1,1,5000,1000",
-                "Msp_MilitaryCrate_Tan,0.447214,-1,1,5000,1000"
+                "Msp_MilitaryCrate_Tan,0.447214,-1,1,5000,1000",
+				"Msp_Safe,0.447214,-1,1,1600,400"
             ]
         },
         {
@@ -1811,7 +2107,21 @@
                 "Msp_Gunwall_Kit,0.66874,-1,1,5000,600",
                 "Msp_Wardrobe_Brown_Kit,1,-1,1,5000,600",
                 "Msp_Wardrobe_Green_Kit,1,-1,1,5000,600",
-                "Msp_Wardrobe_White_Kit,1,-1,1,5000,600"
+                "Msp_Wardrobe_White_Kit,1,-1,1,5000,600",
+				"Msp_SoloLocker_Kit,0.66874,-1,1,5000,600",
+                "Msp_SoloLocker_Black_Kit,0.66874,-1,1,5000,600",
+                "Msp_SoloLocker_White_Kit,0.66874,-1,1,5000,600",
+                "Msp_SoloLocker_Green_Kit,0.66874,-1,1,5000,600",
+                "Msp_SoloLocker_Red_Kit,0.66874,-1,1,5000,600",
+                "Msp_SoloLocker_RedRusty_Kit,0.66874,-1,1,5000,600",
+                "Msp_SoloLocker_Yellow_Kit,0.66874,-1,1,5000,600",
+                "Msp_SoloLocker_YellowRusty_Kit,0.66874,-1,1,5000,600",
+                "Msp_OldLocker_Kit,0.66874,-1,1,5000,600",
+                "Msp_OldLocker_Green_Kit,0.66874,-1,1,5000,600",
+                "Msp_FourDoor_MilitaryLocker_Kit,0.66874,-1,1,5000,600",
+                "Msp_FourDoor_MilitaryLocker_Green_Kit,0.66874,-1,1,5000,600",
+                "Msp_WoodenGunRack_Kit,0.66874,-1,1,5000,600",
+                "Msp_Shelf_Kit,0.66874,-1,1,2000,600"
             ]
         },
         {
@@ -1845,7 +2155,10 @@
                 "MassPaintR,0.983874,-1,1,200,100",
                 "MassPaint,0.983874,-1,1,200,100",
                 "Spraycan_Black,0.983874,-1,1,200,100",
-                "Spraycan_Green,0.983874,-1,1,200,100"
+                "Spraycan_Green,0.983874,-1,1,200,100",
+				"Msp_WoodenTable_Kit,0.66874,-1,1,2000,200",
+                "MassBallisticShield,0.66874,-1,1,5000,1000",
+                "dutchoven_mung,0.66874,-1,1,500,250"
             ]
         },
         {
@@ -1883,8 +2196,17 @@
                 "Msp_MedievalGibbetWithMount_Kit,1,-1,1,5000,600",
                 "Msp_MedievalGibbet_Kit,1,-1,1,5000,600",
                 "Msp_CoffinBox,0.66874,-1,1,5000,1000",
-                "MassSmiley,0.983874,-1,1,1200,600",
-                "MassCatEars,0.983874,-1,1,1200,600"
+                "MassCatEars,0.983874,-1,1,1200,600",
+				"Msp_BunnyEarsHeadband,0.983874,-1,1,1200,600",	
+				"Msp_Rabbit,0.983874,-1,1,1200,600",
+                "Msp_Egg_Blue,0.983874,-1,1,5000,2000",
+                "Msp_Egg_Pink,0.983874,-1,1,5000,2000",
+                "Msp_Egg_Red,0.983874,-1,1,5000,2000",	
+				"Msp_Egg_Green,0.983874,-1,1,5000,2000",	
+				"Msp_Egg_Purple,0.983874,-1,1,5000,2000",	
+				"Msp_Egg_Yellow,0.983874,-1,1,5000,2000",	
+				"dapperhat_mung,0.983874,-1,1,1200,600",
+                "dappercane_mung,0.959572,-1,1,35,17"
             ]
         },
         {
@@ -2526,165 +2848,6 @@
             ]
         },
         {
-            "CategoryName": "Mass's ManyItemOverhaul",
-            "Products": [
-                "Mass_PressVestBlack,0.891402,-1,1,1000,5",
-                "Masswoodlandcamovest,0.836251,-1,1,1000,5",
-                "MassSmershvestcomplete,0.2,-1,1,1000,5",
-                "MassSmershvestWintercomplete,0.2,-1,1,1000,5",
-                "MassUKAssVestWinter,0.836251,-1,1,1000,5",
-                "Masswoodlandcamosweater,0.836251,-1,1,1000,5",
-                "MassCamoHoodie,0.983874,-1,1,1000,5",
-                "MassCUUquiltedJacket,0.794597,-1,1,1000,5",
-                "Massurbancamom65,0.66874,-1,1,1000,5",
-                "MassSM90Top,0.66874,-1,1,1000,5",
-                "MassSM90WTop,0.66874,-1,1,1000,5",
-                "MassBlackGorkatop,0.836251,-1,1,1000,5",
-                "MassGorkaInvertWinterTop,0.836251,-1,1,1000,5",
-                "MassGorkaInvertWoodlandTop,0.836251,-1,1,1000,5",
-                "MassGorkaInvertFlecktarnTop,0.836251,-1,1,1000,5",
-                "MassUSww2top,1,-1,1,1000,5",
-                "MassGokuShirt,0.918781,-1,1,1000,5",
-                "MassTropicamTop,0.836251,-1,1,1000,5",
-                "MassMandraketop,0.66874,-1,1,1000,5",
-                "MassWinterHunterTop,0.935139,-1,1,1000,5",
-                "MassWinterCUUJacket,0.836251,-1,1,1000,5",
-                "MassWinterBDUJacket,0.946014,-1,1,1000,5",
-                "MassTUhikingjacket,0.794597,-1,1,1000,5",
-                "MassOrelTopgreen,0.891402,-1,1,1000,5",
-                "MassNBCJacketYellow,0.66874,-1,1,1000,5",
-                "MassBlackJacket,0.964083,45,1,1000,5",
-                "MassBeigeJacket,0.964083,45,1,1000,5",
-                "MassNBCpantsYellow,0.66874,-1,1,1000,5",
-                "MassBlackGorkabottom,0.836251,-1,1,1000,5",
-                "MassGorkaInvertWinterPants,0.836251,-1,1,1000,5",
-                "MassGorkaInvertWoodlandPants,0.836251,-1,1,1000,5",
-                "MassGorkaInvertFlecktarnPants,0.836251,-1,1,1000,5",
-                "MassTropicamPants,0.836251,-1,1,1000,5",
-                "Masswoodlandcargopants,0.836251,-1,1,1000,5",
-                "Massurbancamocargopants,0.836251,-1,1,1000,5",
-                "Massjeanshorts,0.946014,-1,1,1000,5",
-                "MassMandrakebottom,0.66874,-1,1,1000,5",
-                "MassWinterCUUPants,0.794597,-1,1,1000,5",
-                "MassWinterBDUPants,0.946014,-1,1,1000,5",
-                "MassWinterHunterPants,0.935139,-1,1,1000,5",
-                "Massorelpantsgreen,0.891402,-1,1,1000,5",
-                "MassSM90Pants,0.66874,-1,1,1000,5",
-                "MassSM90WPants,0.66874,-1,1,1000,5",
-                "MassNBCbootsYellow,0.66874,-1,1,1000,5",
-                "MassNBCglovesBlue,0.66874,-1,1,1000,5",
-                "MassBlackYellowMB,0.946014,-1,1,1000,5",
-                "Massczech,0.946014,-1,1,1000,5",
-                "MassczechWinter,0.836251,-1,1,1000,5",
-                "MassWinterTortilla,0.836251,-1,1,1000,5",
-                "MasscamoTaloon,0.836251,-1,1,1000,5",
-                "MasscamoTaloon1,0.836251,-1,1,1000,5",
-                "Massbrownhuntingbp,0.891402,-1,1,1000,5",
-                "Massblackhuntingbp,0.66874,-1,1,1000,5",
-                "MassWinterHuntingbp,0.836251,-1,1,1000,5",
-                "MassSmersh,1,-1,1,1000,5",
-                "MassSmershwinter,0.983874,-1,1,1000,5",
-                "Massurbancamohat,0.946014,-1,1,1000,5",
-                "MasscamoBooniehat,0.891402,-1,1,1000,5",
-                "MassBeigeUshanka,0.967688,50,1,1000,5",
-                "MassCoyoteBPUrban,1,-1,1,1000,5",
-                "MassCanvasBag,0.66874,-1,1,1000,5",
-                "Massblackgp5,0.836251,-1,1,1000,5",
-                "Massmichblack,0.836251,-1,1,1000,5",
-                "MassHuntingCowboyhat,0.946014,-1,1,1000,5",
-                "MassWinterHuntingHood,0.891402,-1,1,1000,5",
-                "MassNBChoodYellow,0.66874,-1,1,1000,5",
-                "MassToolbelt,0.953766,-1,1,1000,5",
-                "MassGhillieSuitWoodland,0.983874,-1,1,1000,5",
-                "MassGhillieSuitMossy,0.983874,-1,1,1000,5",
-                "MassGhillieSuitSnow,0.983874,-1,1,1000,5",
-                "MassGhillieTopWoodland,0.983874,-1,1,1000,5",
-                "MassGhillieTopMossy,0.983874,-1,1,1000,5",
-                "MassGhillieTopSnow,0.983874,-1,1,1000,5",
-                "MassGhillieHood_Woodland,0.983874,-1,1,1000,5",
-                "MassGhillieHood_Snowy,0.983874,-1,1,1000,5",
-                "MassGhillieHoodMossy,0.983874,-1,1,1000,5",
-                "MassGhillieSuitBoxWoodland,1,-1,1,1000,5",
-                "MassGhillieSuitBoxMossy,1,-1,1,1000,5",
-                "MassGhillieSuitBoxWinter,1,-1,1,1000,5",
-                "MassGhillieTopBoxWoodland,1,-1,1,1000,5",
-                "MassGhillieTopBoxWinter,1,-1,1,1000,5",
-                "MassGhillieTopBoxMossy,1,-1,1,1000,5",
-                "MassWinterGhillieWrap,0.983874,-1,1,1000,5",
-                "MassPlateCarrierHolster_Black,0.447214,-1,1,1000,5",
-                "MassPlateCarrierHolster_PartizanM,0.447214,-1,1,1000,5",
-                "MassPlateCarrierHolster_Winter,0.447214,-1,1,1000,5",
-                "MassPlateCarrierHolster_ODG,0.447214,-1,1,1000,5",
-                "MassPlateCarrierPouches_Black,0.447214,-1,1,1000,5",
-                "MassPlateCarrierPouches_PartizanM,0.447214,-1,1,1000,5",
-                "MassPlateCarrierPouches_Winter,0.447214,-1,1,1000,5",
-                "MassPlateCarrierPouches_ODG,0.447214,-1,1,1000,5",
-                "MassPlateCarrier_PartizanM,1,-1,1,1000,5",
-                "MassPlateCarrier_Black,1,-1,1,1000,5",
-                "MassPlateCarrier_Winter,1,-1,1,1000,5",
-                "MassPlateCarrier_ODG,1,-1,1,1000,5",
-                "MassHeavyPlateVest_ODG,0.983874,-1,1,1000,5",
-                "MassHeavyPlateVest_Winter,0.983874,-1,1,1000,5",
-                "MassHeavyPlateVest_Black,0.983874,-1,1,1000,5",
-                "MassHeavyPlateVest_PartizanM,0.983874,-1,1,1000,5",
-                "MassHeavyPlateVest_Beige,0.983874,-1,1,1000,5",
-                "MassSmershvestWW2complete,0.2,-1,1,1000,5",
-                "MassSmershvestblackcomplete,0.2,-1,1,1000,5",
-                "MassArmband_TU,0.983874,-1,1,1000,5",
-                "MassArmband_NCR,0.983874,-1,1,1000,5",
-                "MassArmband_snowBDU,0.983874,-1,1,1000,5",
-                "MassArmband_PartizanM,0.983874,-1,1,1000,5",
-                "MassArmband_Mandrake,0.983874,-1,1,1000,5",
-                "MassArmband_Woodland,0.983874,-1,1,1000,5",
-                "MassArmband_Urban,0.983874,-1,1,1000,5",
-                "MassArmband_Orel,0.983874,-1,1,1000,5",
-                "MassArmband_BWS,0.983874,-1,1,1000,5",
-                "MassArmband_BT,0.983874,-1,1,1000,5",
-                "MassMolleBagBlack,0.447214,-1,1,1000,5",
-                "MassMolleBagDesert,0.447214,-1,1,1000,5",
-                "MassMolleBagGorka,0.447214,-1,1,1000,5",
-                "Massbag,1,-1,1,1000,5",
-                "Massbag2,1,-1,1,1000,5",
-                "Massbag3,1,-1,1,1000,5",
-                "Massbag4,1,-1,1,1000,5",
-                "Massmedbag,0.584804,-1,1,1000,5",
-                "Massmedbag_blue,0.584804,-1,1,1000,5",
-                "Massmedbag_green,0.584804,-1,1,1000,5",
-                "MassSmershblack,0.836251,-1,1,1000,5",
-                "MassImprovisedBag_Black,0.983874,-1,1,1000,5",
-                "MassImprovisedBag_Blue,0.983874,-1,1,1000,5",
-                "MassImprovisedBag_Green,0.983874,-1,1,1000,5",
-                "MassImprovisedBag_Orange,0.983874,-1,1,1000,5",
-                "MassImprovisedBag_Pink,0.983874,-1,1,1000,5",
-                "MassImprovisedBag_Red,0.983874,-1,1,1000,5",
-                "MassImprovisedBag_Yellow,0.983874,-1,1,1000,5",
-                "MassImprovisedBag_Woodland,0.983874,-1,1,1000,5",
-                "MassImprovisedBag_Partizan,0.983874,-1,1,1000,5",
-                "MassImprovisedBag_Urban,0.983874,-1,1,1000,5",
-                "MassRainCoatcourier_Black,0.983874,-1,1,1000,5",
-                "MassRainCoatcourier_Blue,0.983874,-1,1,1000,5",
-                "MassRainCoatcourier_Green,0.983874,-1,1,1000,5",
-                "MassRainCoatcourier_Orange,0.983874,-1,1,1000,5",
-                "MassRainCoatcourier_Pink,0.983874,-1,1,1000,5",
-                "MassRainCoatcourier_Red,0.983874,-1,1,1000,5",
-                "MassRainCoatcourier_Yellow,0.983874,-1,1,1000,5",
-                "MassRainCoatcourier_Woodland,0.983874,-1,1,1000,5",
-                "MassRainCoatcourier_Partizan,0.983874,-1,1,1000,5",
-                "MassRainCoatcourier_Urban,0.983874,-1,1,1000,5",
-                "MassMedical_Bag,0.584804,-1,1,1000,5",
-                "MassMedical_Bag_Blue,0.584804,-1,1,1000,5",
-                "MassMedical_Bag_Green,0.584804,-1,1,1000,5",
-                "Massproxychar,0.983874,-1,1,1000,5",
-                "MassNBC_Bag,0.863888,-1,1,1000,5",
-                "MassAR500,0.836251,-1,1,1000,5",
-                "MassAR500pair,0.983874,-1,1,1000,5",
-                "MassRuckBagDesert,1,-1,1,1000,5",
-                "MassRuckBagBlack,1,-1,1,1000,5",
-                "MassRuckBagGorka,1,-1,1,1000,5",
-                "MassRuckBagGreen,1,-1,1,1000,5"
-            ]
-        },
-        {
             "CategoryName": "M-ATV",
             "Products": [
                 "Dmns_MRAP,0.983874,-1,1,10000,7500",
@@ -2776,7 +2939,7 @@
             ]
         },
         {
-            "CategoryName": "Special Siderms",
+            "CategoryName": "Special Sidearms",
             "Products": [
                 "KOD_Revolver50Cal,1,-1,1,2500,1250",
                 "Hell_DesertEagle,0.935139,-1,1,3000,1500",
@@ -2830,7 +2993,8 @@
                 "KOD_MBR_DesertCamo,1,-1,1,10000,5000",
                 "KOD_MBR_WoodlandCamo,1,-1,1,10000,5000",
                 "Hell_HoneyBadger,0.836251,-1,1,10000,5000",
-                "Hell_HoneyBadger_BattleScars,0.836251,-1,1,10000,5000"
+                "Hell_HoneyBadger_BattleScars,0.836251,-1,1,10000,5000",
+				"Hell_AlphaAK,1,-1,1,10000,5000"
             ]
         },
         {
@@ -2840,7 +3004,8 @@
                 "KOD_PKM,1,-1,1,23000,2000",
                 "air_weapon_pkm,0.66874,-1,1,23000,2000",
                 "air_weapon_rpk,0.66874,-1,1,23000,2000",
-                "air_weapon_m240,0.66874,-1,1,23000,2000"
+                "air_weapon_m240,0.66874,-1,1,23000,2000",
+				"air_weapon_mg42,1,-1,1,23000,2000"
             ]
         },
         {
@@ -2875,12 +3040,21 @@
                 "air_weapon_aws,0.66874,-1,1,11000,2000",
                 "air_weapon_svd,0.66874,-1,1,11000,2000",
                 "air_weapon_svu,0.66874,-1,1,8000,1000",
+				"air_weapon_psg,1,-1,1,11000,2000",
                 "MassM110,0.66874,-1,1,25000,2200",
                 "Massm300,1,-1,1,18000,2000",
                 "Massm300_camo,1,-1,1,18000,2000",
                 "Massm24,1,-1,1,18000,2000"
             ]
         },
+		{
+			"CategoryName": "Launchers",
+			"Products": [
+				"air_weapon_bulldog,0.584804,-1,1,25000,4500",
+                "air_weapon_kastet,0.584804,-1,1,25000,4500",
+                "air_weapon_rpg,0.584804,-1,1,50000,5500"
+			]
+		},
         {
             "CategoryName": "Special Ammunition",
             "Products": [
@@ -2956,7 +3130,18 @@
                 "MassSVTmag,0.836251,-1,1,1000,250",
                 "kivaarimag,0.66874,-1,1,1000,250",
                 "Massm300mag,0.836251,-1,1,1000,250",
-                "Mass338M24mag,0.66874,-1,1,2000,450"
+                "Mass338M24mag,0.66874,-1,1,2000,450",
+				"air_weapon_mg42_mag,1,-1,1,1000,250"
+            ]
+        },
+        {
+            "CategoryName": "Launcher Ammo",
+            "Products": [
+				"Ammo_Air_GP25_Smoke_White,1,-1,10,50,25",
+                "Ammo_Air_GP25_Flashbang,1,-1,10,75,25",
+                "Ammo_Air_GP25_Teargas,1,-1,10,75,25",
+                "Ammo_Air_GP25_HE,1,-1,10,100,25",
+                "Ammo_Air_RPG_HE,1,-1,10,1500,200"
             ]
         },
         {
@@ -2969,7 +3154,9 @@
         {
             "CategoryName": "Special Optics",
             "Products": [
-                "KOD_AWM_Scope,1,-1,1,1500,500"
+                "KOD_AWM_Scope,1,-1,1,1500,500",
+				"air_module_psg_scope,1,-1,1,1500,500",
+				"air_module_rpg7,1,-1,1,500,100"
             ]
         },
         {
@@ -3316,6 +3503,63 @@
                 "RFchinook_rear_blade1,0.584804,-1,1,2000,500",
                 "RFchinook_rear_blade2,0.584804,-1,1,2000,500",
                 "RFchinook_rear_blade3,0.584804,-1,1,1000,250"
+            ]
+        },
+		{
+            "CategoryName": "BTRs",
+            "Products": [
+            ]
+        },
+		{
+            "CategoryName": "BTR Parts",
+            "Products": [
+                "BTR_Wheel,0.584804,-1,1,2000,500",
+                "BTR_Doors_Driver,0.584804,-1,1,2000,500",
+                "BTR_Doors_coDriver,0.584804,-1,1,2000,500",
+                "BTR_Doors_cargo1,0.584804,-1,1,2000,500",
+                "BTR_Doors_cargo2,0.584804,-1,1,2000,500",
+                "BTR_Doors_cargo3,0.584804,-1,1,1000,250",
+                "BTR_Doors_hood1,0.983874,-1,1,1000,250",
+                "BTR_Doors_hood2,0.584804,-1,1,1000,250"
+            ]
+        },
+        {
+            "CategoryName": "BTR White Parts",
+            "Products": [
+                "BTR_Wheel,0.584804,-1,1,2000,500",
+                "BTR_Doors_Driver_white,0.584804,-1,1,2000,500",
+                "BTR_Doors_coDriver_white,0.584804,-1,1,2000,500",
+                "BTR_Doors_cargo1_white,0.584804,-1,1,2000,500",
+                "BTR_Doors_cargo2_white,0.584804,-1,1,2000,500",
+                "BTR_Doors_cargo3_white,0.584804,-1,1,1000,250",
+                "BTR_Doors_hood1_white,0.983874,-1,1,1000,250",
+                "BTR_Doors_hood2_white,0.584804,-1,1,1000,250"
+            ]
+        },
+        {
+            "CategoryName": "BTR Black Parts",
+            "Products": [
+                "BTR_Wheel,0.584804,-1,1,2000,500",
+                "BTR_Doors_Driver_black,0.584804,-1,1,2000,500",
+                "BTR_Doors_coDriver_black,0.584804,-1,1,2000,500",
+                "BTR_Doors_cargo1_black,0.584804,-1,1,2000,500",
+                "BTR_Doors_cargo2_black,0.584804,-1,1,2000,500",
+                "BTR_Doors_cargo3_black,0.584804,-1,1,1000,250",
+                "BTR_Doors_hood1_black,0.983874,-1,1,1000,250",
+                "BTR_Doors_hood2_black,0.584804,-1,1,1000,250"
+            ]
+        },
+        {
+            "CategoryName": "BTR Green Parts",
+            "Products": [
+                "BTR_Wheel,0.584804,-1,1,2000,500",
+                "BTR_Doors_Driver_green,0.584804,-1,1,2000,500",
+                "BTR_Doors_coDriver_green,0.584804,-1,1,2000,500",
+                "BTR_Doors_cargo1_green,0.584804,-1,1,2000,500",
+                "BTR_Doors_cargo2_green,0.584804,-1,1,2000,500",
+                "BTR_Doors_cargo3_green,0.584804,-1,1,1000,250",
+                "BTR_Doors_hood1_green,0.983874,-1,1,1000,250",
+                "BTR_Doors_hood2_green,0.584804,-1,1,1000,250"
             ]
         }
     ]

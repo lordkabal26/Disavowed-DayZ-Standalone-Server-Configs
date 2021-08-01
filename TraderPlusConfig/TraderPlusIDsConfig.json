@@ -29,8 +29,7 @@
                 "Kits and base items",
                 "Misc",
                 "Seasonal",
-                "Munghards Itempack",
-                "Mass's ManyItemOverhaul"
+                "Munghards Itempack"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
@@ -83,6 +82,7 @@
                 "Holster & Pouches",
                 "Belt",
                 "Bags",
+				"Mass's ManyItemOverhaul",
                 "Modular Vest System",
 				"MVS Beards",
 				"MVS Patches"
@@ -119,8 +119,10 @@
 				"Special Assault Rifles",
 				"Light Machine Guns",
 				"Special Sniper Rifles",
+				"Launchers",
 				"Special Ammunition",
 				"Special Magazines",
+				"Launcher Ammo",
 				"Special Buttstocks",
 				"Special Optics",
 				"Special Supressors",
@@ -160,7 +162,12 @@
                 "Chinook Bloody Parts",
                 "Chinook Civ Parts",
                 "Chinook USA Parts",
-                "Chinook Blade Parts"
+                "Chinook Blade Parts",
+				"BTRs",
+				"BTR Parts",
+				"BTR White Parts",
+				"BTR Black Parts",
+				"BTR Green Parts"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
